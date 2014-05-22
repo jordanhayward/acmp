@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="AccessMidV3" id="AccessMidV3">
+    <container type="dialog" id="Temp09e2ddd70484a43" displayname="Popup"/>
+    <container type="dialog" id="hdrEdit" displayname="Popup"/>
+    <container type="form" id="frmActiveWOList" displayname="Form"/>
+    <container type="form" id="frmApprovalWOList" displayname="Form"/>
+    <container type="form" id="frmCreateWO" displayname="Form">
+        <component type="textbox2" id="txtTitle" displayname="TextBox2"/>
+        <component type="combobox" id="ComboBox0c5169188404d4d" displayname="ComboBox"/>
+        <component type="combobox" id="cbxWorkType" displayname="ComboBox"/>
+        <component type="combobox" id="cbxWorkSubtype" displayname="ComboBox"/>
+        <component type="combobox" id="cbxWorkCategory" displayname="ComboBox"/>
+        <component type="combobox" id="cbxWorkSubcategory" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox066b2a180a53c42" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox044e2ed2adaa347" displayname="ComboBox"/>
+        <component type="combobox" id="ComboBox0062ed8347b8446" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox0e3d53e26078543" displayname="ComboBox"/>
+    </container>
+    <container type="form" id="frmDowntime" displayname="Form">
+        <component type="combobox" id="CopyComboBox0c4d3e9e37f1c49" displayname="ComboBox"/>
+        <component type="combobox" id="ComboBox01868aea2e88547" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox07576ca61d4d447" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox0ca55874d262141" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox016d1a42b6bde43" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox0498bfcc9997347" displayname="ComboBox"/>
+    </container>
+    <container type="form" id="frmEditActiveWO" displayname="Form">
+        <component type="textbox2" id="CopyTextField0ebcfb0af7b0743" displayname="TextBox2"/>
+        <component type="combobox" id="CopyComboBox0ba0a2256cbb641" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox02e07452c3f8141" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox05611e3e70d6a47" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox04eeaf68aeecd47" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox08681cb77f0ea4e" displayname="ComboBox"/>
+    </container>
+    <container type="form" id="frmMainMenu" displayname="Form"/>
+    <container type="form" id="frmMoreInfoList" displayname="Form"/>
+    <container type="form" id="frmValveInspection" displayname="Form">
+        <component type="combobox" id="CopyComboBox0988e7ee327ae40" displayname="ComboBox"/>
+        <component type="textbox2" id="TextField071bce55c3c6243" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField02665bad02df54e" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField003281708ff164e" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField09429de9ec5b14d" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField0da51ecca6a4e4f" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField0172af93a903d4b" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField0cf856c2e055e46" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField0becb3bc1c46946" displayname="TextBox2"/>
+        <component type="combobox" id="CopyComboBox0f2eeb744183b4a" displayname="ComboBox"/>
+        <component type="textbox2" id="CopyTextField0918e6ca6806b46" displayname="TextBox2"/>
+        <component type="textbox2" id="CopyTextField0ef96ea43eb0249" displayname="TextBox2"/>
+        <component type="combobox" id="CopyComboBox04f7c574a7dcd44" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox0b9f886476ef04d" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox0efc3eb6e6b7049" displayname="ComboBox"/>
+        <component type="combobox" id="CopyComboBox0df3e7dfd83464c" displayname="ComboBox"/>
+    </container>
+    <container type="form" id="frmViewActiveWO" displayname="Form">
+        <component type="textbox2" id="txtWorkDuration" displayname="TextBox2"/>
+    </container>
+    <container type="form" id="frmViewAwaitingWO" displayname="Form"/>
+    <container type="form" id="frmViewMoreInfo" displayname="Form"/>
+    <container type="dialog" id="frmLongdesc" displayname="Popup"/>
+    <container type="dialog" id="popAttachments" displayname="Popup"/>
+    <container type="dialog" id="popChangeWOStatus" displayname="Popup">
+        <component type="combobox" id="cbxCauseCode" displayname="ComboBox"/>
+        <component type="combobox" id="cbxRemedyCode" displayname="ComboBox"/>
+    </container>
+    <container type="dialog" id="popTimePicker" displayname="Popup">
+        <component type="pickerview" id="CopyPickerView0140335c3acad46" displayname="PickerView">
+            <attributes value="1" platform="spa" name="customPicker" datatype="string"/>
+        </component>
+    </container>
+    <container type="dialog" id="popWOApproval" displayname="Popup"/>
+    <container type="dialog" id="popupArea" displayname="Popup"/>
+    <container type="dialog" id="popupEquipment" displayname="Popup"/>
+    <container type="dialog" id="popupFacSubsys" displayname="Popup"/>
+    <container type="dialog" id="popupFacSystem" displayname="Popup"/>
+    <container type="dialog" id="popupFacility" displayname="Popup"/>
+    <container type="dialog" id="popupGGS" displayname="Popup"/>
+    <container type="dialog" id="popupInstrument" displayname="Popup"/>
+    <container type="dialog" id="popupSite" displayname="Popup"/>
+    <container type="dialog" id="popupSubEquipment" displayname="Popup"/>
+    <globalsequences/>
+    <skins/>
+</application>

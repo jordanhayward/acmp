@@ -1,0 +1,2969 @@
+{
+	"config": {
+		"counter": 517,
+		"inc": 1
+	},
+	"ACTION_SEQUENCE__a82066134c79_3": {
+		"id": "ACTION_SEQUENCE__a82066134c79_3",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmWorkOrderList_onClick_a82066134c79_4",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_5": {
+		"id": "ACTION_SEQUENCE__a82066134c79_5",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_6",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmMainMenu",
+				"formKUID": "409b8e3523a64ba28b90a673982b0574"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_7": {
+		"id": "ACTION_SEQUENCE__a82066134c79_7",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_436",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_9": {
+		"id": "ACTION_SEQUENCE__a82066134c79_9",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_10",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_11": {
+		"id": "ACTION_SEQUENCE__a82066134c79_11",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_12",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_13": {
+		"id": "ACTION_SEQUENCE__a82066134c79_13",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_14",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_15": {
+		"id": "ACTION_SEQUENCE__a82066134c79_15",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_16",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_17": {
+		"id": "ACTION_SEQUENCE__a82066134c79_17",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_18",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_19": {
+		"id": "ACTION_SEQUENCE__a82066134c79_19",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_20",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_21": {
+		"id": "ACTION_SEQUENCE__a82066134c79_21",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_22",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_23": {
+		"id": "ACTION_SEQUENCE__a82066134c79_23",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_24",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_25": {
+		"id": "ACTION_SEQUENCE__a82066134c79_25",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_26",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_27": {
+		"id": "ACTION_SEQUENCE__a82066134c79_27",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_28",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_29": {
+		"id": "ACTION_SEQUENCE__a82066134c79_29",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_30",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_31": {
+		"id": "ACTION_SEQUENCE__a82066134c79_31",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_32",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_33": {
+		"id": "ACTION_SEQUENCE__a82066134c79_33",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_34",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_35": {
+		"id": "ACTION_SEQUENCE__a82066134c79_35",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_36",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_37": {
+		"id": "ACTION_SEQUENCE__a82066134c79_37",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_38",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_39": {
+		"id": "ACTION_SEQUENCE__a82066134c79_39",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_40",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_41": {
+		"id": "ACTION_SEQUENCE__a82066134c79_41",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_42",
+				"type": "NAVIGATE_TO_FORM"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_43": {
+		"id": "ACTION_SEQUENCE__a82066134c79_43",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_44",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_45": {
+		"id": "ACTION_SEQUENCE__a82066134c79_45",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_46",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_47": {
+		"id": "ACTION_SEQUENCE__a82066134c79_47",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateWO_onClick_a82066134c79_48",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_49": {
+		"id": "ACTION_SEQUENCE__a82066134c79_49",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateATFWO_onClick_a82066134c79_50",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_51": {
+		"id": "ACTION_SEQUENCE__a82066134c79_51",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateWO_onClick_a82066134c79_52",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_53": {
+		"id": "ACTION_SEQUENCE__a82066134c79_53",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateATFWO_onClick_a82066134c79_54",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_55": {
+		"id": "ACTION_SEQUENCE__a82066134c79_55",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_56",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_57": {
+		"id": "ACTION_SEQUENCE__a82066134c79_57",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_58",
+				"type": "NAVIGATE_TO_FORM"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_59": {
+		"id": "ACTION_SEQUENCE__a82066134c79_59",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_60",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_61": {
+		"id": "ACTION_SEQUENCE__a82066134c79_61",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_62",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_63": {
+		"id": "ACTION_SEQUENCE__a82066134c79_63",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_64",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_65": {
+		"id": "ACTION_SEQUENCE__a82066134c79_65",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateWO_onClick_a82066134c79_66",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_67": {
+		"id": "ACTION_SEQUENCE__a82066134c79_67",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateATFWO_onClick_a82066134c79_68",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_69": {
+		"id": "ACTION_SEQUENCE__a82066134c79_69",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmActiveorders_onClick_a82066134c79_70",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_71": {
+		"id": "ACTION_SEQUENCE__a82066134c79_71",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onRowClick_a82066134c79_72",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmViewActiveWO",
+				"formKUID": "59affc5052a54138a06632329ba69337"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_73": {
+		"id": "ACTION_SEQUENCE__a82066134c79_73",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateWO_onClick_a82066134c79_74",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_75": {
+		"id": "ACTION_SEQUENCE__a82066134c79_75",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmCreateATFWO_onClick_a82066134c79_76",
+				"type": "NAVIGATE_TO_FORM",
+				"formKUID": "ad851f6f874147e8959d6390372ff2ea"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_77": {
+		"id": "ACTION_SEQUENCE__a82066134c79_77",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmAwaitingWO_onClick_a82066134c79_78",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_79": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_79",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY_Untitled__onClick_3C970E7E9897_81",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "FORM",
+				"itemId": "frmCreateWO",
+				"widgetId": "CopyHBoxproblemCode0250d62d0c60b47",
+				"propertyName": "isVisible",
+				"propertyValue": "true",
+				"itemKUID": "3a7793661875417f9a41a04f11159685",
+				"widgetKUID": "71956b24b29c4121ad2768c9c9d4d20e",
+				"isSkinProperty": false
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_86": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_86",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_87",
+				"type": "DISMISS_POPUP",
+				"popupKUID": "c0ff36ab78ce4830adde0153ab11cf66"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_88": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_88",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_89",
+				"type": "DISMISS_POPUP",
+				"popupKUID": "c0ff36ab78ce4830adde0153ab11cf66"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_90": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_90",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onRowClick_3C970E7E9897_91",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmViewAwaitingWO",
+				"formKUID": "21c983007e7c4d16b73e9c054e69e5c8"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_92": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_92",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY_Untitled__onClick_3C970E7E9897_93",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "__missing_id__",
+				"widgetId": "__missing_id__",
+				"propertyName": "isVisible",
+				"propertyValue": "false",
+				"itemKUID": "c0ff36ab78ce4830adde0153ab11cf66",
+				"widgetKUID": "419bbd80225d4a03ae70990d4e39f72d",
+				"isSkinProperty": false
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_96": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_96",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_102",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_98": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_98",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_99",
+				"type": "DISMISS_POPUP",
+				"popupKUID": "a06f711e278b45138e92053042814769"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_100": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_100",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_101",
+				"type": "DISMISS_POPUP",
+				"popupKUID": "a06f711e278b45138e92053042814769"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_103": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_103",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_106",
+				"type": "DISMISS_POPUP"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_107": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_107",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_108",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_109",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_110": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_110",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_111",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_112",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_113": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_113",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_114",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_115",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_116": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_116",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_117",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_118",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_119": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_119",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_120",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_121",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_122": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_122",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_123",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_124",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_125": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_125",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_126",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_127",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_128": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_128",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_129",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_130": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_130",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_131",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_132": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_132",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_133",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_134",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_135": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_135",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_136",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_263",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_137": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_137",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_138",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_264",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_139": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_139",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_140",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_265",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_141": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_141",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_142",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_266",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_143": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_143",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_144",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_267",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_145": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_145",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_146",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_147": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_147",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_148",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_149": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_149",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_150",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_268",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_151": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_151",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_152",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_269",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_153": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_153",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_154",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_270",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupInstrument",
+				"popupKUID": "d215482a52ad45ec9a04c5ddefbce5e9"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_155": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_155",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_156",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_271",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_157": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_157",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_158",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_272",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_159": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_159",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_160",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_273",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_161": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_161",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_162",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_274",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_163": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_163",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_164",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_275",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_165": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_165",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_166",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_280",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_167": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_167",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_168",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_281",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_169": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_169",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_170",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_282",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupSubEquipment",
+				"popupKUID": "ad585a696f114865b4939bf2e94f651a"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_171": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_171",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_172",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_173": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_173",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_174",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_175": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_175",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_176",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_283",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_177": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_177",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_178",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_284",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_179": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_179",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_180",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_285",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_181": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_181",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_182",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_286",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_185": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_185",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_186",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_290",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_187": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_187",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_188",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_291",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_189": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_189",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_190",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_191": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_191",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_192",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_193": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_193",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_194",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_292",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_195": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_195",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_196",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_293",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_197": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_197",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_198",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_294",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_201": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_201",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_202",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_296",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_203": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_203",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_204",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_297",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_205": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_205",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_206",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_298",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_207": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_207",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_208",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_209": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_209",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_210",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_211": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_211",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_212",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_299",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_213": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_213",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_214",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_300",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_217": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_217",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_218",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_301",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_219": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_219",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_220",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_302",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_221": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_221",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_222",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_303",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacSystem",
+				"popupKUID": "eb84250d87bc41948c1622ac5573904e"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_223": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_223",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_224",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_225": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_225",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_226",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_227": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_227",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_228",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_304",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_231": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_231",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_232",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_305",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_233": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_233",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_234",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_306",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_235": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_235",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_236",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_307",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupFacility",
+				"popupKUID": "25c57ca3992d436698d3fc15ee949e3c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_237": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_237",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_238",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_239": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_239",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_240",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_243": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_243",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_244",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_308",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_245": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_245",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_246",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_309",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_247": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_247",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_248",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_310",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupGGS",
+				"popupKUID": "b908c973a2d64ec08ad02143b68251eb"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_249": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_249",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_250",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_251": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_251",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_252",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_253": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_253",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_254",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_311",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_255": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_255",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_256",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_312",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_257": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_257",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_258",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_313",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_259": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_259",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_260",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_261": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_261",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_262",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_287": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_287",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_3C970E7E9897_288",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupFacSubsys",
+				"popupKUID": "a96c970393ec4a1c9c368933d33e75f0"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_289",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupEquipment",
+				"popupKUID": "f1d7dc2193114fd6bc0308807c5d807c"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_314": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_314",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_3C970E7E9897_315",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_316": {
+		"id": "ACTION_SEQUENCE__a82066134c79_316",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_479",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_318": {
+		"id": "ACTION_SEQUENCE__a82066134c79_318",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_a82066134c79_319",
+				"type": "DISMISS_POPUP",
+				"popupId": "popupArea",
+				"popupKUID": "2c26bcaf5197405ea15a203d7c0db97f"
+			},
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_320",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popupSite",
+				"popupKUID": "bd8e55794bbf47878434f5d51bfbaf0d"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_321": {
+		"id": "ACTION_SEQUENCE__a82066134c79_321",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_322",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmEditActiveWO",
+				"formKUID": "a37106b9dc9746b284ff29770390e60d"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_323": {
+		"id": "ACTION_SEQUENCE__a82066134c79_323",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_324",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmEditActiveWO",
+				"formKUID": "a37106b9dc9746b284ff29770390e60d"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_326": {
+		"id": "ACTION_SEQUENCE__a82066134c79_326",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_327",
+				"type": "DISPLAY_POPUP",
+				"popupId": "frmLongdesc",
+				"popupKUID": "ec31d5e3e39d430e83384e104e2e6bfa"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_328": {
+		"id": "ACTION_SEQUENCE__a82066134c79_328",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_329",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popAttachments",
+				"popupKUID": "769c164bee6c4ce98cb7813d5e7fece3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_330": {
+		"id": "ACTION_SEQUENCE__a82066134c79_330",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_331",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popAttachments",
+				"popupKUID": "769c164bee6c4ce98cb7813d5e7fece3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_332": {
+		"id": "ACTION_SEQUENCE__a82066134c79_332",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_333",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popAttachments",
+				"popupKUID": "769c164bee6c4ce98cb7813d5e7fece3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_334": {
+		"id": "ACTION_SEQUENCE__a82066134c79_334",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_335",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popAttachments",
+				"popupKUID": "769c164bee6c4ce98cb7813d5e7fece3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_336": {
+		"id": "ACTION_SEQUENCE__a82066134c79_336",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_337",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popAttachments",
+				"popupKUID": "769c164bee6c4ce98cb7813d5e7fece3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_338": {
+		"id": "ACTION_SEQUENCE__a82066134c79_338",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_a82066134c79_339",
+				"type": "DISMISS_POPUP",
+				"popupId": "popAttachments",
+				"popupKUID": "769c164bee6c4ce98cb7813d5e7fece3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_340": {
+		"id": "ACTION_SEQUENCE__a82066134c79_340",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_a82066134c79_341",
+				"type": "DISMISS_POPUP",
+				"popupId": "frmLongdesc",
+				"popupKUID": "ec31d5e3e39d430e83384e104e2e6bfa"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_342": {
+		"id": "ACTION_SEQUENCE__a82066134c79_342",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_a82066134c79_343",
+				"type": "DISMISS_POPUP",
+				"popupId": "frmLongdesc",
+				"popupKUID": "ec31d5e3e39d430e83384e104e2e6bfa"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_344": {
+		"id": "ACTION_SEQUENCE__a82066134c79_344",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_a82066134c79_346",
+				"type": "DISMISS_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_347": {
+		"id": "ACTION_SEQUENCE__a82066134c79_347",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP__onClick_a82066134c79_348",
+				"type": "DISMISS_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_349": {
+		"id": "ACTION_SEQUENCE__a82066134c79_349",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_350",
+				"type": "DISPLAY_POPUP",
+				"popupId": "frmLongdesc",
+				"popupKUID": "ec31d5e3e39d430e83384e104e2e6bfa"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_351": {
+		"id": "ACTION_SEQUENCE__a82066134c79_351",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_352",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_353": {
+		"id": "ACTION_SEQUENCE__a82066134c79_353",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_354",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_355": {
+		"id": "ACTION_SEQUENCE__a82066134c79_355",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_356",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_357": {
+		"id": "ACTION_SEQUENCE__a82066134c79_357",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_358",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_359": {
+		"id": "ACTION_SEQUENCE__a82066134c79_359",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_360",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_361": {
+		"id": "ACTION_SEQUENCE__a82066134c79_361",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_362",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_363": {
+		"id": "ACTION_SEQUENCE__a82066134c79_363",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_364",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_365": {
+		"id": "ACTION_SEQUENCE__a82066134c79_365",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_366",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_368": {
+		"id": "ACTION_SEQUENCE__a82066134c79_368",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_369",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_370": {
+		"id": "ACTION_SEQUENCE__a82066134c79_370",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onDownloadComplete_a82066134c79_426",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_372": {
+		"id": "ACTION_SEQUENCE__a82066134c79_372",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onDownloadComplete_a82066134c79_427",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_374": {
+		"id": "ACTION_SEQUENCE__a82066134c79_374",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onDownloadComplete_a82066134c79_428",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_376": {
+		"id": "ACTION_SEQUENCE__a82066134c79_376",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_377",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmMainMenu",
+				"formKUID": "409b8e3523a64ba28b90a673982b0574"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_378": {
+		"id": "ACTION_SEQUENCE__a82066134c79_378",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_379",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_380": {
+		"id": "ACTION_SEQUENCE__a82066134c79_380",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_381",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_382": {
+		"id": "ACTION_SEQUENCE__a82066134c79_382",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_383",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_384": {
+		"id": "ACTION_SEQUENCE__a82066134c79_384",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_385",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_386": {
+		"id": "ACTION_SEQUENCE__a82066134c79_386",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_387",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_388": {
+		"id": "ACTION_SEQUENCE__a82066134c79_388",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_389",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_390": {
+		"id": "ACTION_SEQUENCE__a82066134c79_390",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_391",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_392": {
+		"id": "ACTION_SEQUENCE__a82066134c79_392",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_393",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_394": {
+		"id": "ACTION_SEQUENCE__a82066134c79_394",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_395",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_397": {
+		"id": "ACTION_SEQUENCE__a82066134c79_397",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_001C424754D0_480",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popChangeWOStatus",
+				"popupKUID": "cd94622f41af477f82cfc104183d7e67"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_399": {
+		"id": "ACTION_SEQUENCE__a82066134c79_399",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_400",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_401": {
+		"id": "ACTION_SEQUENCE__a82066134c79_401",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_402",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_403": {
+		"id": "ACTION_SEQUENCE__a82066134c79_403",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_404",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_405": {
+		"id": "ACTION_SEQUENCE__a82066134c79_405",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_406",
+				"type": "NAVIGATE_TO_FORM"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_407": {
+		"id": "ACTION_SEQUENCE__a82066134c79_407",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_408",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmValveInspection",
+				"formKUID": "7605d3556d8e4f4ab2978c6010981bcc"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_409": {
+		"id": "ACTION_SEQUENCE__a82066134c79_409",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_410",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmDowntime",
+				"formKUID": "381f3b5cd2f5419fa47a857f76aaddee"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_411": {
+		"id": "ACTION_SEQUENCE__a82066134c79_411",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_412",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_413": {
+		"id": "ACTION_SEQUENCE__a82066134c79_413",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_414",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_415": {
+		"id": "ACTION_SEQUENCE__a82066134c79_415",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_416",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_417": {
+		"id": "ACTION_SEQUENCE__a82066134c79_417",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_418",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_419": {
+		"id": "ACTION_SEQUENCE__a82066134c79_419",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_420",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_421": {
+		"id": "ACTION_SEQUENCE__a82066134c79_421",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_422",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCreateWO",
+				"formKUID": "3a7793661875417f9a41a04f11159685"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_423": {
+		"id": "ACTION_SEQUENCE__a82066134c79_423",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_a82066134c79_424",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmActiveWOList",
+				"formKUID": "74c5fe6a384e42fc9d58e7dc0fb97934"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_429": {
+		"id": "ACTION_SEQUENCE__a82066134c79_429",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_431",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_432": {
+		"id": "ACTION_SEQUENCE__a82066134c79_432",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_433",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_434": {
+		"id": "ACTION_SEQUENCE__a82066134c79_434",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_435",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_438": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_438",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_439",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "FORM",
+				"itemId": "__missing_id__",
+				"widgetId": "__missing_id__",
+				"propertyName": "skin",
+				"propertyValue": "noSkinVBox",
+				"isSkinProperty": true
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_440": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_440",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_441",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite08aa7e0ae21cb44",
+				"propertyName": "skin",
+				"propertyValue": "selectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "76b568bbdefb4c3d82a2a40da399b3e1",
+				"skinKUID": "64a4983d779a4a33894ece188ff6b168",
+				"isSkinProperty": true
+			},
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_442",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite0aa9de63963934a",
+				"propertyName": "skin",
+				"propertyValue": "nonselectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "bc3374e194fc47b1859837398f01243f",
+				"skinKUID": "8c634872563343edb99125f8caf51651",
+				"isSkinProperty": true
+			},
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_443",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite0673ce40d901745",
+				"propertyName": "skin",
+				"propertyValue": "nonselectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "c703a24ebc7a4633bb58e86ee83a3291",
+				"skinKUID": "8c634872563343edb99125f8caf51651",
+				"isSkinProperty": true
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_444": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_444",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_445",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite0aa9de63963934a",
+				"propertyName": "skin",
+				"propertyValue": "nonselectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "bc3374e194fc47b1859837398f01243f",
+				"skinKUID": "8c634872563343edb99125f8caf51651",
+				"isSkinProperty": true
+			},
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_446",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite08aa7e0ae21cb44",
+				"propertyName": "skin",
+				"propertyValue": "nonselectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "76b568bbdefb4c3d82a2a40da399b3e1",
+				"skinKUID": "8c634872563343edb99125f8caf51651",
+				"isSkinProperty": true
+			},
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_447",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite0673ce40d901745",
+				"propertyName": "skin",
+				"propertyValue": "selectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "c703a24ebc7a4633bb58e86ee83a3291",
+				"skinKUID": "64a4983d779a4a33894ece188ff6b168",
+				"isSkinProperty": true
+			}
+		]
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_448": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_448",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_449",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite0aa9de63963934a",
+				"propertyName": "skin",
+				"propertyValue": "selectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "bc3374e194fc47b1859837398f01243f",
+				"skinKUID": "64a4983d779a4a33894ece188ff6b168",
+				"isSkinProperty": true
+			},
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_450",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite08aa7e0ae21cb44",
+				"propertyName": "skin",
+				"propertyValue": "nonselectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "76b568bbdefb4c3d82a2a40da399b3e1",
+				"skinKUID": "8c634872563343edb99125f8caf51651",
+				"isSkinProperty": true
+			},
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onClick_3C970E7E9897_451",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "POPUP",
+				"itemId": "popupInstrument",
+				"widgetId": "CopyhbxSelectedSite0673ce40d901745",
+				"propertyName": "skin",
+				"propertyValue": "nonselectedInstruSkin",
+				"itemKUID": "d215482a52ad45ec9a04c5ddefbce5e9",
+				"widgetKUID": "c703a24ebc7a4633bb58e86ee83a3291",
+				"skinKUID": "8c634872563343edb99125f8caf51651",
+				"isSkinProperty": true
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_461": {
+		"id": "ACTION_SEQUENCE__a82066134c79_461",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_462",
+				"type": "DISPLAY_POPUP",
+				"popupId": "frmLongdesc",
+				"popupKUID": "ec31d5e3e39d430e83384e104e2e6bfa"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_463": {
+		"id": "ACTION_SEQUENCE__a82066134c79_463",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onDownloadComplete_a82066134c79_464",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_465": {
+		"id": "ACTION_SEQUENCE__a82066134c79_465",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onDownloadComplete_a82066134c79_466",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_467": {
+		"id": "ACTION_SEQUENCE__a82066134c79_467",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onDownloadComplete_a82066134c79_468",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_469": {
+		"id": "ACTION_SEQUENCE__a82066134c79_469",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__onClick_a82066134c79_471",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_472": {
+		"id": "ACTION_SEQUENCE__a82066134c79_472",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP_popTimePicker_onClick_a82066134c79_473",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_474": {
+		"id": "ACTION_SEQUENCE__a82066134c79_474",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP_popTimePicker_onClick_a82066134c79_475",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_476": {
+		"id": "ACTION_SEQUENCE__a82066134c79_476",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP_popTimePicker_onClick_a82066134c79_477",
+				"type": "DISPLAY_POPUP",
+				"popupId": "popTimePicker",
+				"popupKUID": "94f41a075fec4c4cae19099f6d76b7f3"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_483": {
+		"id": "ACTION_SEQUENCE__001C424754D0_483",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY_Untitled__onSlide_001C424754D0_484",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "FORM",
+				"itemId": "frmCreateWO",
+				"widgetId": "cbxWorkSubcategory",
+				"propertyName": "isVisible",
+				"propertyValue": "true",
+				"itemKUID": "3a7793661875417f9a41a04f11159685",
+				"widgetKUID": "8c26be4aa97343d1bac827c31235b708",
+				"isSkinProperty": false
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_485": {
+		"id": "ACTION_SEQUENCE__001C424754D0_485",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY_Untitled__onSlide_001C424754D0_486",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "FORM",
+				"itemId": "frmCreateWO",
+				"widgetId": "hboxCauseCode",
+				"propertyName": "isVisible",
+				"propertyValue": "true",
+				"itemKUID": "3a7793661875417f9a41a04f11159685",
+				"widgetKUID": "1c75831c840c48ea8813f4a04e9e0edb",
+				"isSkinProperty": false
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_487": {
+		"id": "ACTION_SEQUENCE__001C424754D0_487",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY_Untitled__onSelection_001C424754D0_488",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "FORM",
+				"itemId": "frmCreateWO",
+				"widgetId": "cbxWorkSubtype",
+				"propertyName": "isVisible",
+				"propertyValue": "true",
+				"itemKUID": "3a7793661875417f9a41a04f11159685",
+				"widgetKUID": "2c2f2624cee84503871b428cecbf7584",
+				"isSkinProperty": false
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_489": {
+		"id": "ACTION_SEQUENCE__001C424754D0_489",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_FORM_WIDGET_PROPERTY___onSelection_001C424754D0_491",
+				"type": "SET_WIDGET_PROPERTY",
+				"itemType": "FORM",
+				"itemId": "frmCreateWO",
+				"widgetId": "cbxWorkSubcategory",
+				"propertyName": "masterData",
+				"propertyValue": [
+					[
+						"Key1",
+						"Value"
+					],
+					[
+						"Key2",
+						"Value"
+					],
+					[
+						"Key3",
+						"Value"
+					]
+				],
+				"additionalPropertyKeyValues": {
+					"selectedKeys": [
+						"Key2"
+					]
+				},
+				"itemKUID": "3a7793661875417f9a41a04f11159685",
+				"widgetKUID": "8c26be4aa97343d1bac827c31235b708",
+				"skinKUID": [],
+				"isSkinProperty": false,
+				"wType": "ComboBox"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_492": {
+		"id": "ACTION_SEQUENCE__001C424754D0_492",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_493",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_494": {
+		"id": "ACTION_SEQUENCE__001C424754D0_494",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_495",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_496": {
+		"id": "ACTION_SEQUENCE__001C424754D0_496",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_497",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_498": {
+		"id": "ACTION_SEQUENCE__001C424754D0_498",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_499",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_500": {
+		"id": "ACTION_SEQUENCE__001C424754D0_500",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_501",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_502": {
+		"id": "ACTION_SEQUENCE__001C424754D0_502",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_503",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_504": {
+		"id": "ACTION_SEQUENCE__001C424754D0_504",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_505",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_506": {
+		"id": "ACTION_SEQUENCE__001C424754D0_506",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_507",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_508": {
+		"id": "ACTION_SEQUENCE__001C424754D0_508",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_509",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_510": {
+		"id": "ACTION_SEQUENCE__001C424754D0_510",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmViewAwaitingWO_onRowClick_001C424754D0_511",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmViewAwaitingWO",
+				"formKUID": "21c983007e7c4d16b73e9c054e69e5c8"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_512": {
+		"id": "ACTION_SEQUENCE__001C424754D0_512",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onRowClick_001C424754D0_513",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmViewMoreInfo",
+				"formKUID": "fa59f4b6dee44b2da797e8d4e8eb1d0b"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_514": {
+		"id": "ACTION_SEQUENCE__001C424754D0_514",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__buttonClosureLeftSideView_001C424754D0_515",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmMoreInfoList",
+				"formKUID": "2e31aacafea04e11b842af3fd27a4a03"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__001C424754D0_516": {
+		"id": "ACTION_SEQUENCE__001C424754D0_516",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM_frmApprovalWOList_onClick_001C424754D0_517",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmApprovalWOList",
+				"formKUID": "22470f0c0f3646be9e2ab55ae73ee2fe"
+			}
+		]
+	},
+	"ACTION_SEQUENCE__a82066134c79_1": {
+		"id": "ACTION_SEQUENCE__a82066134c79_1",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_82": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_82",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_84": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_84",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_276": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_276",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_279": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_279",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_183": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_183",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_199": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_199",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_215": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_215",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_229": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_229",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__3C970E7E9897_241": {
+		"id": "ACTION_SEQUENCE__3C970E7E9897_241",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__a82066134c79_325": {
+		"id": "ACTION_SEQUENCE__a82066134c79_325",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__a82066134c79_367": {
+		"id": "ACTION_SEQUENCE__a82066134c79_367",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__a82066134c79_452": {
+		"id": "ACTION_SEQUENCE__a82066134c79_452",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__a82066134c79_458": {
+		"id": "ACTION_SEQUENCE__a82066134c79_458",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__a82066134c79_460": {
+		"id": "ACTION_SEQUENCE__a82066134c79_460",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__001C424754D0_481": {
+		"id": "ACTION_SEQUENCE__001C424754D0_481",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	},
+	"ACTION_SEQUENCE__001C424754D0_482": {
+		"id": "ACTION_SEQUENCE__001C424754D0_482",
+		"type": "ACTION_SEQUENCE",
+		"actions": []
+	}
+}

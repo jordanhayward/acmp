@@ -1,0 +1,1487 @@
+{
+    "forms": {
+        "tablet": {
+            "21c983007e7c4d16b73e9c054e69e5c8": {
+                "042f297e6835453283e90d8b9802e0a4": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_336"
+                },
+                "11043971166d4b37b2d29036a36193f6": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_65"
+                },
+                "1eb1903eb4904c878e482d91f27287f2": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_67"
+                },
+                "21c983007e7c4d16b73e9c054e69e5c8": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "2259b52f7f0b4e159c91ee673f343d31": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_407"
+                },
+                "2b72f03f8a494da1bdd08e5c1f097409": {},
+                "3e8b006838b247e98b7b541282192470": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_399"
+                },
+                "4c48c832d1e54319865a6005c41f4f84": {},
+                "53695ea6266344d28351440ba6f059d1": {},
+                "57dd8ec357204a3f88be43c39c4a4073": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_323"
+                },
+                "62444ef3d4424e5fae78a3c1eafc4c22": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_403"
+                },
+                "6587605d4dfa4701ba79267e732fb219": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_409"
+                },
+                "6d6edf524b3240799f3560ce79737979": {},
+                "72902bbfe08b4485978f16e8ff82c4a3": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_411"
+                },
+                "7301cf36458242dfa2a3c387022b2bec": {},
+                "7933a625885544eab82a7079caaea2db": {},
+                "7b4c3c89742b41a28731a7aa2f7102c8": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_401"
+                },
+                "84525b33c1d8450dba4cbbfdca3bebfc": {},
+                "949c32a66e5e4f5c9b768f29a0933dd1": {
+                    "platforms": {
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "99ca1896217d4ef3b3c510ee0d636ad3": {},
+                "c03da549a007463d95a873d5f901bb89": {},
+                "d96b3206be8f41af8fee74285f1a7b92": {},
+                "dbc30699b8b04c008679fc27285895e7": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                },
+                "e320c142753f4d39a774157a5d321c68": {},
+                "eb828bf5a23b4c15aa6f756441d0296c": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_413"
+                },
+                "f6c581cf72c2452286f882f66d974a1b": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_508"
+                },
+                "fc4428e0c43347e68c06ff7b6b2ede25": {}
+            },
+            "22470f0c0f3646be9e2ab55ae73ee2fe": {
+                "13846d71822e48b1990dfa1420fcd382": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_357"
+                },
+                "22470f0c0f3646be9e2ab55ae73ee2fe": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "22e9ec99631a458a899f116792a60ef6": {},
+                "37ba75cb412d4c07984df7b59a88d186": {},
+                "55342c52bc9344e5ba5e544d6e780bd5": {
+                    "onrowclick": "ACTION_SEQUENCE__3C970E7E9897_90",
+                    "platforms": {
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "65dd7ea3dd6c4c2da2f0516d243fe35e": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_27"
+                },
+                "9d21645860e54eaaac2813f999fed834": {},
+                "b2ff62a9ddfb4d419977ee2f9d68dd98": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_29"
+                },
+                "c09c50ea4fdb4228b31dee83a0aff8b2": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_355"
+                },
+                "c67edbfe523f418da13eb2d899263366": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_494"
+                },
+                "e8482c02112c4c99b8e92cd199192798": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_25"
+                },
+                "e909fa980777484791a6f85deb677dab": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                }
+            },
+            "2e31aacafea04e11b842af3fd27a4a03": {
+                "2e31aacafea04e11b842af3fd27a4a03": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "435680864a0b465b871ee16c4e9545f9": {},
+                "47556fff3acc43f6a34f1c9dbbcd2f94": {},
+                "4897c60323c54cd2afca5d07ab5e164f": {
+                    "onrowclick": "ACTION_SEQUENCE__001C424754D0_512",
+                    "platforms": {
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "5644aec4b8a3447ca87177adcbc3e9ae": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_510"
+                },
+                "906650e32f2e4af5ac47e22f239228ed": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_510"
+                },
+                "9e623c6ece2b4dc795a9ba452e4d45fc": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_510"
+                },
+                "b0006b244c8a42ffa38eef53dd2e4815": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_510"
+                },
+                "b71a0121e859459b8bc4408990f57ba4": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_510"
+                },
+                "cf47bdf0080c46f393c80f518b071150": {},
+                "d960e3beaab4441d81e0cb7f70f116e1": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_510"
+                },
+                "f65b74f3cbe945f6b0fcbd49202756fd": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                }
+            },
+            "381f3b5cd2f5419fa47a857f76aaddee": {
+                "03233fa016d045fb8cd6da9261d95c1d": {},
+                "038e46717d3e44d49910d25f05df9968": {},
+                "0b6b1f8435d84b92bd1d227d513f6d83": {},
+                "0fd4a0035f5e4726baf5ce6328ff4e27": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_368"
+                },
+                "2445dbf5e4d946fba1866ffee6bf2fc0": {},
+                "2518c24dedd04f91a9f59edb55de6110": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "26ccc7fcd8c24d0cb559768323923afb": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_474"
+                },
+                "2c6de8310cae419788d84bc3dfc27126": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "30a90810c74e421794555327b9ecd898": {},
+                "381f3b5cd2f5419fa47a857f76aaddee": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "42cbc01607a24351b8b0315570062468": {},
+                "43cf9afeee5a4278b25a1d80fe3b3613": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "462f9157f191489791ce9e1da79b4e75": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_469"
+                },
+                "4922637758e9438e846c8498ae9d27ee": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_500"
+                },
+                "5d0f5e7930624b38b95dbd49d15be0de": {},
+                "63e4e6190f234dc9ab7f82d0d7445545": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_376"
+                },
+                "66848625ceae41e6b86bc8761f00ec2f": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_5"
+                },
+                "6789c7001ff944db8dd08fd2e02fec12": {},
+                "6f295c34f38045cebf016431d8a0ee1c": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "6fb8a3ff1a884473a250c0503e38421a": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                },
+                "70bbab1387f74e5086dba0dc2eec6c26": {},
+                "7dd59ccd5e2e415bb6f53c8aaf97681a": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_476"
+                },
+                "7ee7c9a5cfdf475db2c86c766e8c0c96": {
+                    "onclick": null
+                },
+                "8ebe323aee0b4c8f87979a88108dbc98": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "913dd3c67d444f8792f81e5157bf9b33": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "91e6e090fb9647cd8d31c460af59f7eb": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_31"
+                },
+                "a074ab6be9b8454e83287799645b5861": {},
+                "a85033d1eb2f4e8bb2b24cecf2c66a4e": {},
+                "b7c3ead6c2974c3bab76f9f9e2034914": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_35"
+                },
+                "d0b4e1812502443888232c4e08f3f69f": {},
+                "f6df5ef178f34e30a78860c3a9c5212c": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_33"
+                },
+                "fb47588082c845369768fb3c2067f0d8": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_421"
+                }
+            },
+            "3a7793661875417f9a41a04f11159685": {
+                "074848703cfb4d5b8d3a5734496572f7": {},
+                "081c7897035d464d8c6dbed24c73000e": {},
+                "08fb8943587046d4b1cccf96e04c90b3": {},
+                "0a873a258672458c85ad58b79cf16c99": {
+                    "onselection": "ACTION_SEQUENCE__001C424754D0_487",
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "0cfa9f36f18248a6b297d740daa9931f": {
+                    "onslide": "ACTION_SEQUENCE__001C424754D0_485",
+                    "platforms": {
+                        "android": {}
+                    }
+                },
+                "1245f3e224a348739e8b32da5ff281e9": {},
+                "12d9122047f1419ea315213f92bb2c23": {},
+                "143f43a78d704818b3526fb2c8310396": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_363"
+                },
+                "18d3f7bd1873451dbb0bdc83818e3497": {},
+                "19670e727206466fa33571400926b6bf": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "1c75831c840c48ea8813f4a04e9e0edb": {},
+                "1fef1164b34b4ad199ea905775be2c76": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_5"
+                },
+                "25d9e6208fc4401e899de0458f43a324": {},
+                "2c2f2624cee84503871b428cecbf7584": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "372a76f3c58a460594510da2d54aa5af": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_423"
+                },
+                "3a7793661875417f9a41a04f11159685": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "41119580734b4bcca8507bf08633fd98": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_96"
+                },
+                "544afc71f24f414ca71dc429e4dabbec": {},
+                "57d39c00e11a42caafdf35a190ae9cb0": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "5cbf680c1cfe462081af125ba1bcfb1d": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "71956b24b29c4121ad2768c9c9d4d20e": {},
+                "734cdd3e25b34dc8b627f2e0e788770b": {},
+                "753643c88b7e4cf4bac8d66de7b59915": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_349"
+                },
+                "75bf51d12a5c4356959591770eb35f82": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_33"
+                },
+                "7674ee41e98942a48b6c1d8984e2836d": {},
+                "78b5ec15a48042c1a85ff4932d107937": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "8132a247ca544803921d03044d3f17c5": {},
+                "8c26be4aa97343d1bac827c31235b708": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "929c7d83c992475d8ca568085d910a99": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_35"
+                },
+                "9540a852c3a14f04afdcf2bdb9a69b09": {},
+                "98e8296fc61f45d39145fb1052332ccc": {
+                    "onselection": "ACTION_SEQUENCE__001C424754D0_489",
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "9931108c904844c994eea37b35c06575": {},
+                "a1e7a9b6afd7468da82f2b499508b87e": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_365"
+                },
+                "a2c0b69eb1eb4160a8ffd477c5b2af58": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_31"
+                },
+                "a3d820eb126a4fbe9203aaf7cdbd40ec": {},
+                "aea67f83348c48aea9cf77e13bd9557f": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "b6bb07b2e0bd4ba4aa167ae4289085dc": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                },
+                "b77c9d6cad5a42f4bd81151807e44a7a": {},
+                "bb353d024c064fedbea0643e60df5add": {},
+                "d51bd0b01e30495cb288dc2d00a8f292": {},
+                "d8b37a4bf8be4b4a984b91abedf9ac03": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_498"
+                },
+                "eed38f9de5fd4f3aa6ac1f365f8eb1be": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_330"
+                },
+                "effde024fb234a5baee47fbb0e282258": {}
+            },
+            "409b8e3523a64ba28b90a673982b0574": {
+                "19cbe624eea9462a9b2e71b9058e0a5e": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_384"
+                },
+                "1dad91f4fe884c6d85ff84e22213a750": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_61"
+                },
+                "3c617db39384459ab3cd786b31d375fc": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_63"
+                },
+                "409b8e3523a64ba28b90a673982b0574": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "4aa63594104d447faa77c0eb298b5728": {},
+                "6aec84274a9c44f98738b2dd0f48370b": {},
+                "70ea8ed70bfa4981bb46607acbe0d06f": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_496"
+                },
+                "877200ca75b8490f959767e8d2e90049": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_59"
+                },
+                "90838dcfd4854408a3559fad327c9f0c": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_55"
+                },
+                "b3e31142e08d4ab18bd26c4a5d3e08ac": {},
+                "dbfbf3b7e65e464ca66b8ee5ff11ce41": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_386"
+                }
+            },
+            "59affc5052a54138a06632329ba69337": {
+                "09b742d8e1b8408282444926c4435089": {},
+                "0d2c6bd5f47949d1b874429abc105703": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_390"
+                },
+                "0e4a76669d514282876c829d12851209": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_392"
+                },
+                "26055ebc20544df0b3f57fbd746ec6f7": {},
+                "2b56745a5db84f1cafb040e7dec0d13c": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_506"
+                },
+                "34ce248f04ae47c9b86f18a5cbbacfaf": {},
+                "357218efb9ff4a4c9c4af3638e3d09f4": {},
+                "42f3d468be4349858e43f0a03be0d1e4": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_73"
+                },
+                "4dd8d6fd790b4e51bf5cc956e3889131": {},
+                "51fc85737aa24e618f4fda4539ec74b9": {},
+                "52fd14d5b5994a1e8248c65d54b35845": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_334"
+                },
+                "59affc5052a54138a06632329ba69337": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "6fe5b6c7519343c5be4ba7ba7814ceec": {},
+                "7356caa95db7491f90c4620735971cc0": {},
+                "78ecc9820fc64142b38e87870a6df618": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_397"
+                },
+                "814b5c6d6c8e47f7bff1da4e94539409": {},
+                "832161e1ecab49ec9a023f445b2cfbdc": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_415"
+                },
+                "87138faa5ad24457b7d9493a3d181b90": {},
+                "8980c0d14f88480591e2bb0a1b7a2b81": {},
+                "8bd7c183e17e48ee9c617711b8a224b7": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_394"
+                },
+                "9140df72218b4a9f967caa180047964a": {},
+                "950702f92ec14c2da8d5dd5e71352da7": {},
+                "b31273d7b6b140a3bd879d2982ed2b24": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_75"
+                },
+                "b3744c22cdc64eb88fd38e93f02f3a40": {},
+                "b9448955cb1c4746bf0466fb3fe43ae1": {},
+                "c87876bcce6e47efb937c9041d6508a8": {},
+                "d24d7a72aaa24a2db68a12dabb89e776": {},
+                "d4deac8c4404460c8760368ff7c767e5": {},
+                "dad15a9821634799a11de61fd49c231d": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_77"
+                },
+                "f140d03afdbf4a7397484afd0d288b54": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_321"
+                },
+                "f3cc29f824ec4766b578fd5269e2ab76": {}
+            },
+            "74c5fe6a384e42fc9d58e7dc0fb97934": {
+                "1ecc31a4d2e144f99f5a84ea70ad98a9": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_353"
+                },
+                "32bc6bc759d34a6b8060c7d6d94629df": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_23"
+                },
+                "4e8c1ee0772d4deba1e39de5f0b3f3c6": {},
+                "5d2bc4abb6c14f8fac47f97e9363f457": {},
+                "68cd633488fd4ab4bea1b8946d2029c5": {},
+                "72daf59aac6749c0bfb0be22837d4192": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_21"
+                },
+                "74c5fe6a384e42fc9d58e7dc0fb97934": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "808be04508be43f8a4069bfda223ea37": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_351"
+                },
+                "8e6447ebe2ea401f937082a71489b893": {},
+                "9c04afc76c6a4d5cb4bfa35122d5e874": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                },
+                "9c6fcdaceb6047bd85d6191eb3ebd1dd": {},
+                "9d65b1902e9b4c83b2d923b20969117c": {
+                    "onrowclick": "ACTION_SEQUENCE__a82066134c79_71",
+                    "platforms": {
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "a39ff8bfe1694eea8cffcda2d003d2d4": {},
+                "c78e27169a7c4a978a44805d0707db51": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_19"
+                },
+                "ca2a712bb02e49008b378254641d48b5": {},
+                "d6369988ce9240f38214f092ef82ec8d": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_492"
+                }
+            },
+            "7605d3556d8e4f4ab2978c6010981bcc": {
+                "002414c3f2d04b3f8116813c0b9386d4": {},
+                "04e3b887bb3d436ebf5c6bb6082ca035": {},
+                "0f14ccaad55144f3afd8ce751238f82a": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_35"
+                },
+                "136542ff86dc4f8899ee7ff60c0c39bb": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "1d2ef4c25d3b449db7a3862bfc01d4e6": {},
+                "22b1e35214504575ab8d4a49453dd97e": {
+                    "onslide": null,
+                    "platforms": {
+                        "android": {}
+                    }
+                },
+                "22ff26c9849d427d8ee2d50f5e18119c": {},
+                "25cdc40617d74c4aab610ab0b39a0472": {},
+                "2b00a00c796f406faab3034f3cd8e273": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_417"
+                },
+                "2bc650eb954d45caabdbec27359a66a8": {},
+                "3e7ed092657f4e1796565a1ca4439743": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_388"
+                },
+                "3f2ca8a0b4ca4645b88a32bba255c664": {},
+                "41bfbdf943314426acef9f421cbb54ac": {},
+                "4fa724f7cd7841de9e1f09b17b667ab5": {},
+                "5365de9fdc0f4495bbdf01db186c13ae": {},
+                "55187e39becc4edb831bdca1791c1735": {},
+                "580054143a674e069a50c16c303c410f": {},
+                "5d38b15c4d1b4a61a2b76fa9695653bf": {},
+                "5ee630b16c784b0b88c43930ffa5669c": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                },
+                "5feb3abda804432787a79fbc9b13f380": {},
+                "64d4e9b58cab4f6888fc882f2d9620d9": {},
+                "6655e999c53c41998da9a77e161d2235": {},
+                "716ff28537b441b396645abac0e316a1": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "7605d3556d8e4f4ab2978c6010981bcc": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "7616fe49d43f461fb774c28b9e341e61": {},
+                "7cd3e507152c42f8b9f1cb37a0c01b7a": {},
+                "7de156cbd3c443158f2bdb6667f1a0fc": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "8535c7c3245a46be92c9005fd9063022": {},
+                "87ab00876fe049ee935e7fe5b735d7b2": {},
+                "907cadf9534a4ae9acda495e10571d2a": {},
+                "940e0f73e3694123ac718b773c431e18": {},
+                "977ef4b75d8f486dbc6616d9dbb88de0": {},
+                "9f4be5b3b61649bea58be0824d68cd6a": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "9fc29bab58b04d4abc77f0773c6dbf0b": {},
+                "a44ae99ffbd04d8fbf25ebab89987ae2": {},
+                "aadf3bdad09a4d97b21ee80ac514287f": {},
+                "ab9d748f2f0e4846991eece83f7b8639": {},
+                "ac99bf36ced4456298fc72cb6e80ca2d": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_5"
+                },
+                "b600d91356a14e6596addb57ca56fcce": {},
+                "b702d0423ea84487afc5f5ddd054883f": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "b84d3e5a2bf74897bda81083cc244d2e": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_33"
+                },
+                "c21c8edede8f41e5a2083f5af26126f2": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_504"
+                },
+                "cde5f2567cac4328b6487ae77376f21f": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "d22bdf2e66ed454a97a563d58263593b": {},
+                "d5866206c74d44feb7705d8a985cab01": {},
+                "d861e514b3334150a58f27c514e13ec5": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_31"
+                },
+                "f36ba07887b345aa893e85a93d4abc9a": {},
+                "f5e204d021c344d9b0515682c3e770b3": {},
+                "fc374a39ea5b462fb810272d44d6318e": {}
+            },
+            "a37106b9dc9746b284ff29770390e60d": {
+                "1c135b6b5211456a93a80381075d1dc2": {},
+                "1cc8236f98e84720bc17e31292d9c1db": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_332"
+                },
+                "1cdddd00356d46c095fd9a651e038149": {},
+                "25e1af52b4f04c458e618a255c0ec352": {},
+                "331b33cbb5c34a86a18da1c1bc3f3f97": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {},
+                        "spaandroidtablet": {}
+                    }
+                },
+                "33c6b49f86e34c409ea0aea85e043d01": {},
+                "357476735d914bb9ac4e4c5bc765eff8": {},
+                "417aae912470424a865ad0e0f839a70a": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_382"
+                },
+                "46d2cb5094b24decbcb77d3e5138daed": {},
+                "53f963232440444fa43dd95fa8b3cc13": {},
+                "540201d64caa42a78394e6f9f2c7f573": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_461"
+                },
+                "5a948b3979c0422d84c4a90ad7199e2f": {},
+                "6c2d5a4dd46d4fadb5fb78d198afa790": {},
+                "79aa629b497f457b9cfcdf0d4619afc5": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_316"
+                },
+                "86499e35242e4f129bcd9fe95d59ba7b": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_380"
+                },
+                "89207311b2554ab8b001e8b69baab13c": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_316"
+                },
+                "8d88e3a4e9d041b6860d31dae47fa945": {},
+                "95573210a6804c46b38be86ce42e8bfe": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "9b2a3d41536a46bcbe6741bd9877c836": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "a292a8cdb3e14a4cb1b82c66bd060072": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "a340fc17bed1404fb62a551cf715001a": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "a37106b9dc9746b284ff29770390e60d": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spa": {},
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                },
+                "a5fd89f846f24207bf4a0fa21028bab1": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_316"
+                },
+                "adc909ca5232448295e7facd3e514ec7": {},
+                "b17bdb3420744b1a85eddf4d3821b766": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "b9723e72b09a4b49bbc9aa1c7fc349c2": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_316"
+                },
+                "c24595085e8545ef83d38bf97423bc67": {},
+                "c63bc73a873a4682b60d659c356e7c6e": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_378"
+                },
+                "c760d903e3a54422b69e3785dedfbfb4": {
+                    "onclick": "ACTION_SEQUENCE__001C424754D0_502"
+                },
+                "d1d55b19cd1b4f5d83ac05d2576db9a1": {},
+                "d3867e53cab640158944a3f0b29f2382": {},
+                "e6b6034ba9db4b3ba865b5cc28696e39": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_419"
+                },
+                "ef45b73e330146b3aac921cc0147130a": {},
+                "f2ba43c3b78049a7a746f2026fe48351": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_316"
+                },
+                "f4c41d73202449f5a5aae5ecb2e57e7d": {}
+            },
+            "fa59f4b6dee44b2da797e8d4e8eb1d0b": {
+                "fa59f4b6dee44b2da797e8d4e8eb1d0b": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "tabrcandroid": {}
+                    }
+                }
+            }
+        }
+    },
+    "popups": {
+        "tablet": {
+            "25c57ca3992d436698d3fc15ee949e3c": {
+                "0f202fd0ba9b49319d4d03ff10eaec82": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_211"
+                },
+                "1a1a8c47e8974b74911ff2563d2b481e": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_219"
+                },
+                "25c57ca3992d436698d3fc15ee949e3c": {},
+                "35fec241a8d44c4fb315f01e278e6bc1": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_217"
+                },
+                "595a1e4e414f4e01862aaeb0d28d81ff": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_225"
+                },
+                "9990c13b47554e689866b898a58e8241": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_221"
+                },
+                "a17f62d5897e45a4a23e4ded8a1d18ce": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_223"
+                },
+                "c252ec60951e4946b11984fb195d9e70": {},
+                "d533be2e8d8d4e91a0eb8523db0728d3": {
+                    "onclick": null
+                },
+                "f618da7e54294778abd3896284691f74": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_213"
+                }
+            },
+            "2c26bcaf5197405ea15a203d7c0db97f": {
+                "2c26bcaf5197405ea15a203d7c0db97f": {},
+                "3da45bdeeadc407d8c18ff127f61b997": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_247"
+                },
+                "74440297b54f4a29b11e60222f2f4f0e": {},
+                "7f852cbd3e744d28947ccea2bdd6b4df": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_249"
+                },
+                "b40030de02174c4fa27a7c2472f95a48": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_251"
+                },
+                "b4222a7a861c42cf879d299379030269": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_243"
+                },
+                "bd74129550134a2b8da0053bc799e243": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_245"
+                },
+                "d792451773f04f93bd8c2a195a4a3778": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_318"
+                }
+            },
+            "441e856f8d4448b3b9e86e58f593f9c2": {
+                "088fb2ded32a457d8b2ee262cda3b186": {},
+                "1f337efac238454b8701b142e6967f48": {},
+                "441e856f8d4448b3b9e86e58f593f9c2": {},
+                "55e1904776bc43d2ac3091096510e35e": {},
+                "57b6b32e8a62484a89c06723e11e4361": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "953a63399e414e3a8515bd8409b69a04": {},
+                "a3337c49dc3842cb84d1aec92d1392ae": {},
+                "d95feb228e7d4c62abed11d3f1747faa": {}
+            },
+            "769c164bee6c4ce98cb7813d5e7fece3": {
+                "50c24d0d8f6c4039ae575cde15b12ac3": {},
+                "5d9ee31423684f8598cdac6bb67796cd": {},
+                "6385a8a9eeaf4a89adcdb0dc3a7901d8": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_338"
+                },
+                "76744f5bbf04470c943bafee83f9e90c": {},
+                "769c164bee6c4ce98cb7813d5e7fece3": {},
+                "98d5230131b542f198b4cff258824a0d": {},
+                "c5a77041908542afb929d9290050be25": {},
+                "e84d8d5756dd4f46a57a607dcee01e69": {},
+                "e8b07d3424774df6b11d6b6cd0f01115": {
+                    "platforms": {
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                }
+            },
+            "94f41a075fec4c4cae19099f6d76b7f3": {
+                "0af7af9c8b6441d09b736c4dfa15aef6": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_344"
+                },
+                "7812f309fe8c44b29d6e47dc88fd76a5": {},
+                "861eaf4a4a02445ca0bfb2cc1f485e2c": {
+                    "platforms": {
+                        "spaandroidtablet": {},
+                        "spaipad": {}
+                    }
+                },
+                "94f41a075fec4c4cae19099f6d76b7f3": {},
+                "a512049a9c56454bb0b6fa5c8e48c24c": {},
+                "b77124eb47d34924b107f2caf69a4533": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_347"
+                },
+                "f7141e7b836440038f0a2dade4e7c693": {}
+            },
+            "a96c970393ec4a1c9c368933d33e75f0": {
+                "050740c8707649d58eb73ebc46347fca": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_287"
+                },
+                "093e4cb8eab348ddbb60ec3d17c6ef2a": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_181"
+                },
+                "0c85e078e87d4320893b6f961da768d0": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_189"
+                },
+                "1430bc47f7fe4b3193b2921482860f20": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_175"
+                },
+                "43f4c80b53024ab4bd420314a6b31ff4": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_177"
+                },
+                "84e4e31b3e8b4353b4a99dac19222d83": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_185"
+                },
+                "94ed1072f2b64e1bbab04b98e8ccb803": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_187"
+                },
+                "a96c970393ec4a1c9c368933d33e75f0": {},
+                "c5619d67c3334614b505e67550cb6fda": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_179"
+                },
+                "cf7bceb00cb6430088726a4c30efc60b": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_191"
+                },
+                "d57e18fd454e4a559abc2ce28878d7b0": {},
+                "ea12790adf0c4c8e92fd42389eaff64d": {
+                    "onclick": null
+                }
+            },
+            "ad585a696f114865b4939bf2e94f651a": {
+                "26a71df1e08a44008e30250395f23bcb": {},
+                "57c55241cccc4654b5bb4bb503a9e43e": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_135"
+                },
+                "63079a300a04414fa1011dc81e8624a7": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_153"
+                },
+                "655db207d1234c59a1abc3fd2b01ea4b": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_132"
+                },
+                "85975f7ada1e45f18c66f5247ae9d7fc": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_141"
+                },
+                "92d7b5784277451eb934ff0084ad0eb5": {},
+                "a0cfe08ae424418c92073f205f05c5b8": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_147"
+                },
+                "a23087aed56749caaa739736511a3fc2": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_151"
+                },
+                "a615b18511ef4666bdc370a86fb23812": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_145"
+                },
+                "abb2da7fa3df41b5a6421047aeb9cb1c": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_137"
+                },
+                "ad585a696f114865b4939bf2e94f651a": {},
+                "bebaa692ad6044098080a6a4391652b5": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_149"
+                },
+                "c032cfe57ec8455a9633dffb72d2bcc7": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_143"
+                },
+                "fd441c8d6bbf4ba8a1319b1fde157308": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_139"
+                }
+            },
+            "b908c973a2d64ec08ad02143b68251eb": {
+                "0872670a8a674aa292236490b25dd2c8": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_227"
+                },
+                "2ca20353d7cf43139a326702676b986c": {
+                    "onclick": null
+                },
+                "364cb423cffa4f3481bbbb6a3db94bb3": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_237"
+                },
+                "41bf113a8bb6468a9edc6822601b322f": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_231"
+                },
+                "7d4adfc977d8457d9ef0408d5d1d6ca5": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_233"
+                },
+                "825ab2d9bd6a48f69bc616a3ba3f7552": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_239"
+                },
+                "b908c973a2d64ec08ad02143b68251eb": {},
+                "ebf28fc987df4ca891a8ef488e2b1cbe": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_235"
+                },
+                "fda3b2564cf742f9abd6ba8f4b69a980": {}
+            },
+            "bd8e55794bbf47878434f5d51bfbaf0d": {
+                "4cc727a4928644629baaacdf2c997da9": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_253"
+                },
+                "4e6641bbf32f44d4b43de0c5f6cc7562": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_255"
+                },
+                "803d595c46214b4c8fe49bf7ef1200b7": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_261"
+                },
+                "8fae19a2305c40cfb09edebc066dcedf": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_257"
+                },
+                "b267cd5ae3bb4d8ea2d5b6c7b21e7bb5": {},
+                "bd8e55794bbf47878434f5d51bfbaf0d": {},
+                "dafbb95c319e49a2a0894039f8b17e3f": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_259"
+                }
+            },
+            "cd94622f41af477f82cfc104183d7e67": {
+                "0c13508285d84f4081a263c463904163": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "14a29764574f45c18d7984e764cad927": {},
+                "2b70f4053cc4489a918860a9e263a387": {},
+                "3e4493f392ab4fcd9610c889057a2aa8": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "56084a0abbdb4fb4ae691565630a38b6": {},
+                "799e946f94e3456aad5e5ad4ac2d9b6a": {},
+                "b6c0cebbf3c9470392657fdfed4131be": {},
+                "b792a1b42924452d8264ca351a1a9f44": {},
+                "cd94622f41af477f82cfc104183d7e67": {},
+                "d8b00ee6089744588bf9628e1ebcb958": {},
+                "ed98d9a3bb99499aaada22dda707d5b2": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "fe68926d370244ebb5f7a810df5b019a": {}
+            },
+            "d215482a52ad45ec9a04c5ddefbce5e9": {
+                "204e31e6f20b421da6a84dce963ffc26": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_130"
+                },
+                "2b29b04a7db44df985cdeb10770fa6f2": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_125"
+                },
+                "2f4e561e9eba441e9edcc252fe137a08": {},
+                "449fbfd5eeeb457ea58b26c65c673270": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_122"
+                },
+                "51e81d451eac42cbb9f6a91247176a1d": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_128"
+                },
+                "5358541d8cab4ef6898ffc765af157f1": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_113"
+                },
+                "59c95927b73149d792374a59f43befac": {},
+                "6b907beca7ca4bf294b3384d4d1ab842": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_119"
+                },
+                "6d0f5407955d4c8d8cee7ae197a60ca5": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_110"
+                },
+                "76b568bbdefb4c3d82a2a40da399b3e1": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_440"
+                },
+                "a3e9090402da419fb78c879995804a1d": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_116"
+                },
+                "bc3374e194fc47b1859837398f01243f": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_448"
+                },
+                "c703a24ebc7a4633bb58e86ee83a3291": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_444"
+                },
+                "d215482a52ad45ec9a04c5ddefbce5e9": {},
+                "f57412b3afb041b8ac9265ade8eb247b": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_107"
+                }
+            },
+            "eb84250d87bc41948c1622ac5573904e": {
+                "0f9f96954fed449fb66cd8534b8b3183": {},
+                "3e660861cf8142b489c80b8b7b0f6055": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_203"
+                },
+                "6edd203da5824171993853e1d423c61f": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_207"
+                },
+                "bd347db2efd6447fb69b2da0d529040f": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_197"
+                },
+                "c10e57bc0b6f43089aabaa5ec724ce64": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_195"
+                },
+                "c5081896cc1a4a1a909cecea82dcef7a": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_205"
+                },
+                "d00fb290040140cf9b5ec309b4d7cab9": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_201"
+                },
+                "da1e93f5d0344ba686a0e559268f3e9d": {
+                    "onclick": null
+                },
+                "e4953aae450d474a80edc19d49e1ce12": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_209"
+                },
+                "eb84250d87bc41948c1622ac5573904e": {},
+                "f37e72d20c9241d49d70a7fcb36d2408": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_193"
+                }
+            },
+            "ec31d5e3e39d430e83384e104e2e6bfa": {
+                "3b3def213a9f49519930c2500eb40dbe": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_342"
+                },
+                "3e5daf3041f8472996b69227df906537": {},
+                "62372e8c0e614f328300f8c00d08a382": {},
+                "73329e801e13402499829cb59c5d0b01": {},
+                "b71325a110694712a94558a9e28e647b": {},
+                "ec31d5e3e39d430e83384e104e2e6bfa": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "ipad": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "fa6bcb8dd7c045068dcac14e23553d71": {
+                    "onclick": "ACTION_SEQUENCE__a82066134c79_340"
+                }
+            },
+            "f1d7dc2193114fd6bc0308807c5d807c": {
+                "2008980a12af4a148df2ce4e29ce13ff": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_157"
+                },
+                "206d5f038dfd459c9ba54b27c94b210b": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_167"
+                },
+                "44eb870e5eb54649af48795bd7d885cf": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_171"
+                },
+                "686f9da54f604978b36fa2a5bfb3859f": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_155"
+                },
+                "6ce7611188b443d5bf5f370c29df1c64": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_169"
+                },
+                "6d196114d76d42099ea2a1c55ff311e0": {},
+                "7c6f23e33fb84de6b2b43491806bb481": {
+                    "onclick": null
+                },
+                "8fa3bf4bf9684b8b8a114f3a86393b9c": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_165"
+                },
+                "9fe9f01c83bd41d4a7dd3d3c62e719f7": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_173"
+                },
+                "b2df83b5cc874ffa8254aba2bc896191": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_159"
+                },
+                "f0d0ed56693f41fab9d486dc528e4fd5": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_163"
+                },
+                "f1d7dc2193114fd6bc0308807c5d807c": {},
+                "f4c9ef9cdaab47249e923b24c0452812": {
+                    "onclick": "ACTION_SEQUENCE__3C970E7E9897_161"
+                }
+            }
+        }
+    },
+    "templates": {
+        "tablet": {
+            "headers": {
+                "a8baca2ac8824e519a23565332b31b28": {
+                    "a8baca2ac8824e519a23565332b31b28": {},
+                    "fed64dbd0eaa4e34b7845381a8dd96ba": {}
+                },
+                "c093355349ad473fa10abb96a38ca3b6": {
+                    "76ae6118b1c8400fa83995ca0ff4f2b3": {},
+                    "ab39bec8053e44709a6d5e82412a39fb": {},
+                    "c093355349ad473fa10abb96a38ca3b6": {}
+                }
+            },
+            "segments": {
+                "23e2a22d25ab40b3b1c3ff4a111ce28b": {
+                    "20ae24cb90684ddb80efa62c68e4f256": {},
+                    "23e2a22d25ab40b3b1c3ff4a111ce28b": {},
+                    "adfd66e5a82046e69f514932c875b408": {}
+                },
+                "2e87a51993cb45a0a6be0a0c7fb2a1bd": {
+                    "2e87a51993cb45a0a6be0a0c7fb2a1bd": {}
+                },
+                "5b7ba2da8a2a4216bc8b5194ac14472b": {
+                    "1592c53d70ac4f4698f813093450c6d3": {},
+                    "5b7ba2da8a2a4216bc8b5194ac14472b": {},
+                    "ddfb5c09fb5942fea53bcdebd089b9f0": {}
+                },
+                "5c2c70cb77ae4d52ab0ec9769898d2ad": {
+                    "5c2c70cb77ae4d52ab0ec9769898d2ad": {}
+                },
+                "b8d71b288a0649e5bd4df6f1c7ce7fa5": {
+                    "b8d71b288a0649e5bd4df6f1c7ce7fa5": {}
+                }
+            }
+        }
+    }
+}
