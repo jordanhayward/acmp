@@ -19207,6 +19207,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmDowntime</navigateFrom>
+                                    <navigateTo>popTimePicker</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -21875,6 +21892,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmDowntime</navigateFrom>
+                                    <navigateTo>popTimePicker</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -24543,6 +24577,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmDowntime</navigateFrom>
+                                    <navigateTo>popTimePicker</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -28013,6 +28064,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>0</destType>
+                                    <navigateFrom>frmDowntime</navigateFrom>
+                                    <navigateTo>frmMainMenu</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -28704,6 +28772,30 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFunctionAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>6</type>
+                                    <functionName>None</functionName>
+                                    <functionNameMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>recordDowntime</value>
+                                        </entry>
+                                    </functionNameMap>
+                                    <paramDataMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value/>
+                                        </entry>
+                                    </paramDataMap>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>

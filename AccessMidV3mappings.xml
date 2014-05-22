@@ -57,12 +57,15 @@
     </container>
     <container type="form" id="frmViewAwaitingWO" displayname="Form"/>
     <container type="form" id="frmViewMoreInfo" displayname="Form"/>
-    <container type="dialog" id="frmLongdesc" displayname="Popup"/>
     <container type="dialog" id="popAttachments" displayname="Popup"/>
     <container type="dialog" id="popChangeWOStatus" displayname="Popup">
         <component type="combobox" id="cbxCauseCode" displayname="ComboBox"/>
         <component type="combobox" id="cbxRemedyCode" displayname="ComboBox"/>
     </container>
+    <container type="dialog" id="popDueDateFilter" displayname="Popup"/>
+    <container type="dialog" id="popLocationFilter" displayname="Popup"/>
+    <container type="dialog" id="popLongdesc" displayname="Popup"/>
+    <container type="dialog" id="popPriorityFilter" displayname="Popup"/>
     <container type="dialog" id="popTimePicker" displayname="Popup">
         <component type="pickerview" id="CopyPickerView0140335c3acad46" displayname="PickerView">
             <attributes value="1" platform="spa" name="customPicker" datatype="string"/>

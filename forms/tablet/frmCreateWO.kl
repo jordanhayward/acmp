@@ -3464,7 +3464,7 @@
                         <width>100</width>
                         <height>3</height>
                     </sizePercent>
-                    <skinId>navbtnUnfocused</skinId>
+                    <skinId>navbtnUnselected</skinId>
                     <focusSkinId>ButtonSkin02e0c02476d6d43</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
@@ -10857,6 +10857,23 @@
                         </overridePerferred>
                         <contentAlign>5</contentAlign>
                         <parent_contentalignment>middle-right</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmCreateWO</navigateFrom>
+                                    <navigateTo>popLongdesc</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -13525,6 +13542,36 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventAlertAction">
+                                    <mainaction>
+                                        <enabled>true</enabled>
+                                        <name>true</name>
+                                        <type>0</type>
+                                    </mainaction>
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>2</type>
+                                    <alertID>None</alertID>
+                                    <alertIcon></alertIcon>
+                                    <alertType>0</alertType>
+                                    <i18nMessage>None</i18nMessage>
+                                    <i18nNoLabel>None</i18nNoLabel>
+                                    <i18nTitle>None</i18nTitle>
+                                    <i18nYesLabel>None</i18nYesLabel>
+                                    <message>Not implemented</message>
+                                    <messageAlignment>0</messageAlignment>
+                                    <messageMap/>
+                                    <messageType>0</messageType>
+                                    <noLabel>No</noLabel>
+                                    <title></title>
+                                    <yesLabel>Yes</yesLabel>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -14216,6 +14263,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmCreateWO</navigateFrom>
+                                    <navigateTo>popupSite</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -28829,6 +28893,30 @@
                         <right_text_i18n>None</right_text_i18n>
                         <left_bgImage></left_bgImage>
                         <right_bgImage></right_bgImage>
+                        <onSlide>
+                            <evtSequence>
+                                <actionList xsi:type="eventFunctionAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>6</type>
+                                    <functionName>None</functionName>
+                                    <functionNameMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>toggleATF</value>
+                                        </entry>
+                                    </functionNameMap>
+                                    <paramDataMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value/>
+                                        </entry>
+                                    </paramDataMap>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </onSlide>
                         <win_header></win_header>
                         <win_header_skin>Skin Defaults</win_header_skin>
                         <win_color_str>26,161,226</win_color_str>
@@ -37090,6 +37178,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmCreateWO</navigateFrom>
+                                    <navigateTo>popAttachments</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -38449,6 +38554,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>0</destType>
+                                    <navigateFrom>frmCreateWO</navigateFrom>
+                                    <navigateTo>frmMainMenu</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -39140,6 +39262,30 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFunctionAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>6</type>
+                                    <functionName>None</functionName>
+                                    <functionNameMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>createWO</value>
+                                        </entry>
+                                    </functionNameMap>
+                                    <paramDataMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value/>
+                                        </entry>
+                                    </paramDataMap>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>

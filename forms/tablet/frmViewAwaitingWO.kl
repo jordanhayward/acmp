@@ -27,7 +27,7 @@
     <platform>0</platform>
     <mode>0</mode>
     <formCategory>100</formCategory>
-    <toList></toList>
+    <toList>frmApprovalWOList</toList>
     <fromList></fromList>
     <headersrcList></headersrcList>
     <footersrcList></footersrcList>
@@ -2035,6 +2035,23 @@
                 </overridePerferred>
                 <contentAlign>4</contentAlign>
                 <parent_contentalignment>middle-center</parent_contentalignment>
+                <event_onClick>
+                    <evtSequence>
+                        <actionList xsi:type="eventFormAction">
+                            <enabled>true</enabled>
+                            <name></name>
+                            <type>1</type>
+                            <destType>0</destType>
+                            <navigateFrom>frmViewAwaitingWO</navigateFrom>
+                            <navigateTo>frmApprovalWOList</navigateTo>
+                            <newOutputMapping/>
+                            <outputMapping/>
+                            <platform>0</platform>
+                        </actionList>
+                        <enabled>true</enabled>
+                        <seqname></seqname>
+                    </evtSequence>
+                </event_onClick>
                 <parallel_exec>false</parallel_exec>
                 <iphone_glow_effect>false</iphone_glow_effect>
                 <iphone_3d_look>true</iphone_3d_look>
@@ -3381,6 +3398,23 @@
                 </overridePerferred>
                 <contentAlign>5</contentAlign>
                 <parent_contentalignment>middle-center</parent_contentalignment>
+                <event_onClick>
+                    <evtSequence>
+                        <actionList xsi:type="eventFormAction">
+                            <enabled>true</enabled>
+                            <name></name>
+                            <type>1</type>
+                            <destType>0</destType>
+                            <navigateFrom>frmViewAwaitingWO</navigateFrom>
+                            <navigateTo>frmEditActiveWO</navigateTo>
+                            <newOutputMapping/>
+                            <outputMapping/>
+                            <platform>0</platform>
+                        </actionList>
+                        <enabled>true</enabled>
+                        <seqname></seqname>
+                    </evtSequence>
+                </event_onClick>
                 <parallel_exec>false</parallel_exec>
                 <iphone_glow_effect>false</iphone_glow_effect>
                 <iphone_3d_look>true</iphone_3d_look>
@@ -22655,6 +22689,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmViewAwaitingWO</navigateFrom>
+                                    <navigateTo>popAttachments</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -24014,6 +24065,23 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFormAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>1</type>
+                                    <destType>1</destType>
+                                    <navigateFrom>frmViewAwaitingWO</navigateFrom>
+                                    <navigateTo>popLongdesc</navigateTo>
+                                    <newOutputMapping/>
+                                    <outputMapping/>
+                                    <platform>0</platform>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -24705,6 +24773,30 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFunctionAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>6</type>
+                                    <functionName>None</functionName>
+                                    <functionNameMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>rejectWO</value>
+                                        </entry>
+                                    </functionNameMap>
+                                    <paramDataMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value/>
+                                        </entry>
+                                    </paramDataMap>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>
@@ -25396,6 +25488,30 @@
                         </overridePerferred>
                         <contentAlign>4</contentAlign>
                         <parent_contentalignment>middle-center</parent_contentalignment>
+                        <event_onClick>
+                            <evtSequence>
+                                <actionList xsi:type="eventFunctionAction">
+                                    <enabled>true</enabled>
+                                    <name></name>
+                                    <type>6</type>
+                                    <functionName>None</functionName>
+                                    <functionNameMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>approveWO</value>
+                                        </entry>
+                                    </functionNameMap>
+                                    <paramDataMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value/>
+                                        </entry>
+                                    </paramDataMap>
+                                </actionList>
+                                <enabled>true</enabled>
+                                <seqname></seqname>
+                            </evtSequence>
+                        </event_onClick>
                         <parallel_exec>false</parallel_exec>
                         <iphone_glow_effect>false</iphone_glow_effect>
                         <iphone_3d_look>true</iphone_3d_look>

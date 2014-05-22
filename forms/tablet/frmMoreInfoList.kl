@@ -3464,7 +3464,7 @@
                         <width>100</width>
                         <height>13</height>
                     </sizePercent>
-                    <skinId>navbtnUnfocused</skinId>
+                    <skinId>navbtnUnselected</skinId>
                     <focusSkinId>ButtonSkin090af7581e56d4f</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
@@ -4155,8 +4155,8 @@
                         <width>100</width>
                         <height>13</height>
                     </sizePercent>
-                    <skinId>navbtnFocused</skinId>
-                    <focusSkinId>navbtnFocused</focusSkinId>
+                    <skinId>navbtnSelected</skinId>
+                    <focusSkinId>navbtnSelected</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
                     <rendererData>
@@ -6839,6 +6839,17 @@
                     <showScrollBars>false</showScrollBars>
                     <onRowSelect>
                         <evtSequence>
+                            <actionList xsi:type="eventFormAction">
+                                <enabled>true</enabled>
+                                <name></name>
+                                <type>1</type>
+                                <destType>0</destType>
+                                <navigateFrom>frmMoreInfoList</navigateFrom>
+                                <navigateTo>frmViewMoreInfo</navigateTo>
+                                <newOutputMapping/>
+                                <outputMapping/>
+                                <platform>0</platform>
+                            </actionList>
                             <enabled>true</enabled>
                             <seqname></seqname>
                         </evtSequence>
