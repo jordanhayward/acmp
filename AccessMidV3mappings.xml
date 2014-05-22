@@ -62,10 +62,16 @@
         <component type="combobox" id="cbxCauseCode" displayname="ComboBox"/>
         <component type="combobox" id="cbxRemedyCode" displayname="ComboBox"/>
     </container>
-    <container type="dialog" id="popDueDateFilter" displayname="Popup"/>
-    <container type="dialog" id="popLocationFilter" displayname="Popup"/>
+    <container type="dialog" id="popDueDateFilter" displayname="Popup">
+        <component type="calendar" id="calDueDate" displayname="Calendar"/>
+    </container>
+    <container type="dialog" id="popLocationFilter" displayname="Popup">
+        <component type="combobox" id="combobox1568159912394375" displayname="ComboBox"/>
+    </container>
     <container type="dialog" id="popLongdesc" displayname="Popup"/>
-    <container type="dialog" id="popPriorityFilter" displayname="Popup"/>
+    <container type="dialog" id="popPriorityFilter" displayname="Popup">
+        <component type="combobox" id="cbxPriorityFilter" displayname="ComboBox"/>
+    </container>
     <container type="dialog" id="popTimePicker" displayname="Popup">
         <component type="pickerview" id="CopyPickerView0140335c3acad46" displayname="PickerView">
             <attributes value="1" platform="spa" name="customPicker" datatype="string"/>
