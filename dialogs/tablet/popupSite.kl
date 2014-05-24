@@ -440,12 +440,16 @@
                             <key>js</key>
                             <value>populateSegmentAtDepth</value>
                         </entry>
+                        <entry>
+                            <key>lua</key>
+                            <value>None</value>
+                        </entry>
                     </functionNameMap>
                     <paramData>
                         <datatype>string</datatype>
                         <paramName>seg</paramName>
                         <valType>0</valType>
-                        <value>popupSite.segSite</value>
+                        <value></value>
                         <valueMap>
                             <entry>
                                 <key>js</key>
@@ -457,7 +461,7 @@
                         <datatype>string</datatype>
                         <paramName>depth</paramName>
                         <valType>0</valType>
-                        <value>1</value>
+                        <value></value>
                         <valueMap>
                             <entry>
                                 <key>js</key>
@@ -473,7 +477,36 @@
                                     <datatype>string</datatype>
                                     <paramName>seg</paramName>
                                     <valType>0</valType>
-                                    <value>popupSite.segSite</value>
+                                    <value>popupSite.seg</value>
+                                    <valueMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>popupSite.seg</value>
+                                        </entry>
+                                    </valueMap>
+                                </paramList>
+                                <paramList>
+                                    <datatype>string</datatype>
+                                    <paramName>depth</paramName>
+                                    <valType>0</valType>
+                                    <value></value>
+                                    <valueMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>1</value>
+                                        </entry>
+                                    </valueMap>
+                                </paramList>
+                            </value>
+                        </entry>
+                        <entry>
+                            <key>lua</key>
+                            <value>
+                                <paramList>
+                                    <datatype>string</datatype>
+                                    <paramName>seg</paramName>
+                                    <valType>0</valType>
+                                    <value></value>
                                     <valueMap>
                                         <entry>
                                             <key>js</key>
@@ -485,7 +518,7 @@
                                     <datatype>string</datatype>
                                     <paramName>depth</paramName>
                                     <valType>0</valType>
-                                    <value>1</value>
+                                    <value></value>
                                     <valueMap>
                                         <entry>
                                             <key>js</key>
@@ -837,7 +870,7 @@
         <desktopweb_draggable>false</desktopweb_draggable>
         <desktopweb_minonlostfocus>false</desktopweb_minonlostfocus>
         <children xsi:type="kSegment2">
-            <ID>segSite</ID>
+            <ID>seg</ID>
             <gridMetaData>
                 <colSpan>1</colSpan>
                 <column>0</column>
@@ -1561,14 +1594,18 @@
                         <functionNameMap>
                             <entry>
                                 <key>js</key>
-                                <value>hierarchyNavigate</value>
+                                <value>hierarchyNavigateDown</value>
+                            </entry>
+                            <entry>
+                                <key>lua</key>
+                                <value>None</value>
                             </entry>
                         </functionNameMap>
                         <paramData>
                             <datatype>string</datatype>
                             <paramName>ev</paramName>
                             <valType>0</valType>
-                            <value>eventobject</value>
+                            <value></value>
                             <valueMap>
                                 <entry>
                                     <key>js</key>
@@ -1585,6 +1622,23 @@
                                         <paramName>ev</paramName>
                                         <valType>0</valType>
                                         <value>eventobject</value>
+                                        <valueMap>
+                                            <entry>
+                                                <key>js</key>
+                                                <value>eventobject</value>
+                                            </entry>
+                                        </valueMap>
+                                    </paramList>
+                                </value>
+                            </entry>
+                            <entry>
+                                <key>lua</key>
+                                <value>
+                                    <paramList>
+                                        <datatype>string</datatype>
+                                        <paramName>ev</paramName>
+                                        <valType>0</valType>
+                                        <value></value>
                                         <valueMap>
                                             <entry>
                                                 <key>js</key>
@@ -1671,7 +1725,7 @@
             <blockedSkin>Skin Defaults</blockedSkin>
             <spaBlockedUISkin>Skin Defaults</spaBlockedUISkin>
             <children xsi:type="kLabel">
-                <ID>label1568159912405690</ID>
+                <ID>name</ID>
                 <gridMetaData>
                     <colSpan>1</colSpan>
                     <column>0</column>
