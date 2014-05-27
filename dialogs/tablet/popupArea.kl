@@ -873,7 +873,7 @@
                 <defaults>
                     <left>0</left>
                     <right>0</right>
-                    <top>5</top>
+                    <top>0</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </defaults>
@@ -1517,7 +1517,7 @@
                     <width>100</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>LabelSkin03ba8a486667b44</skinId>
+                <skinId>Skin Defaults</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -2267,7 +2267,7 @@
                 <bb_override>false</bb_override>
                 <default_override>true</default_override>
                 <defaults>
-                    <left>0</left>
+                    <left>1</left>
                     <right>0</right>
                     <top>0</top>
                     <bottom>0</bottom>

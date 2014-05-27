@@ -38,13 +38,21 @@ function buildSegDataByDepth(depth) {
 function populateNavUpLabels(depth, name) {
 	kony.print('populateNavUpLabels(' + depth + ', ' + name + ')')
 	var lblName = 'lbl' + depth
+	var hbxName = 'hbx' + depth
 	kony.print('lblName: ' + lblName)
 	kony.print('depth='+depth + '  length='+_.size(levels))
 	for( var i=depth+1; i < _.size(levels); ++i ) {
 		kony.print('  i='+i)
+		
+		// set text
 		var cmd = levels[i].form + '.' + lblName + '.text="' + name + '"'
 		kony.print('  cmd: ' + cmd)
-		try { eval(cmd) } catch(e) {}
+		try { eval(cmd) } catch(e) { kony.print('  exception ') }
+		
+		// set info for navigating back up
+		var cmd = levels[i].form + '.' + hbxName + '.info={depth:' + i + ', form:"' + levels[i].form + '"}'
+		kony.print('  cmd: ' + cmd)
+		try { eval(cmd) } catch(e) { kony.print('  exception ') }
 	}
 }
 
@@ -63,40 +71,59 @@ function hierarchyNavigateDown(ev) {
 	kony.print('curId: ' + curId)
 	var data = []
 	var elements = retrieveChildrenOf(levels[curDepth].type, curId)
-	elements.forEach(function(elem) {							// DRY!
-		kony.print('element: ' + objectdump(elem))
-		data.push(_.extend(elem, {depth:curDepth+1}))
-	})
-	kony.print('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> hierarchyNavigateDown segdata: ' + objectdump(data))
 	
-	// update up nav fields
-	populateNavUpLabels(curDepth, ev.focusedItem.name)
-	
-	// swap forms
-	var curForm = eval(levels[curDepth].form)
-	var nextForm = eval(levels[curDepth+1].form)
-	nextForm.seg.setData(data)
-	nextForm.show()
-	curForm.dismiss()
+	// does this element have any children?
+	if( elements.length < 1 ) {
+		// no children
+		kony.print('No children!')
+		// TODO change skin
+	} else {
+		// has children
+		elements.forEach(function(elem) {							// DRY!
+			kony.print('element: ' + objectdump(elem))
+			data.push(_.extend(elem, {depth:curDepth+1}))
+		})
+		kony.print('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> hierarchyNavigateDown segdata: ' + objectdump(data))
+		
+		// update up nav fields
+		populateNavUpLabels(curDepth, ev.focusedItem.name)
+		
+		// swap forms
+		var curForm = eval(levels[curDepth].form)
+		var nextForm = eval(levels[curDepth+1].form)
+//	kony.print('curDepth: ' + curDepth)
+//	kony.print('curDepth+1: ' + curDepth+1)
+//	kony.print('levels[curDepth]: ' + levels[curDepth])
+//	kony.print('levels[curDepth+1]: ' + levels[curDepth+1])
+//	kony.print('levels[curDepth].form: ' + levels[curDepth].form)
+//	kony.print('levels[curDepth+1].form: ' + levels[curDepth+1].form)
+//	kony.print('curForm: ' + curForm)
+//	kony.print('nextForm: ' + nextForm)
+		nextForm.seg.setData(data)
+		nextForm.show()
+		curForm.dismiss()
+	}
 }
 
 // event handler when the user presses a label above to navigate back up
 function hierarchyNavigateUp(ev) {
 	kony.print('hierarchyNavigateUp: ' + objectdump(ev))
-	var curDepth = ev.focusedItem.depth
-	var curId = ev.focusedItem.id
-	kony.print('curDepth: ' + curDepth)
-	kony.print('curId: ' + curId)
-	var data = []
-	// TODO stuff below is wrong, blindly copied from NavDown
-	// TODO use a segment for the above levels, to allow for hidden column to store depth of each level?
-	var elements = retrieveChildrenOf(levels[curDepth].type, curId)
-	elements.forEach(function(elem) {							// DRY!
-		kony.print('element: ' + objectdump(elem))
-		data.push(_.extend(elem, {depth:curDepth+1}))
-	})
-	kony.print('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> hierarchyNavigateDown segdata: ' + objectdump(data))
-	return data
+	
+	var backDepth = parseInt(ev.id.substring(3))
+	kony.print('backDepth: ' + backDepth)
+	kony.print('info: ' + ev.info)
+	var curPopup = eval(ev.info.form)
+	kony.print('curPopup: ' + curPopup)
+	
+	// swap forms
+	var backForm = eval(levels[backDepth].form)
+	kony.print('backDepth: ' + backDepth)
+	kony.print('levels[backDepth]: ' + levels[backDepth])
+	kony.print('levels[backDepth].form: ' + levels[backDepth].form)
+	kony.print('backForm: ' + backForm)
+	backForm.show()
+	curPopup.dismiss()
+	
 }
 
 // search and retrieval functions //////////////////////////////////////////////

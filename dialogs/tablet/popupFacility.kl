@@ -873,7 +873,7 @@
                 <defaults>
                     <left>0</left>
                     <right>0</right>
-                    <top>5</top>
+                    <top>0</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </defaults>
@@ -1517,7 +1517,7 @@
                     <width>100</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>LabelSkin03ba8a486667b44</skinId>
+                <skinId>Skin Defaults</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -2263,9 +2263,9 @@
                 <bb_override>false</bb_override>
                 <default_override>true</default_override>
                 <defaults>
-                    <left>0</left>
+                    <left>1</left>
                     <right>0</right>
-                    <top>5</top>
+                    <top>0</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </defaults>
@@ -2909,7 +2909,7 @@
                     <width>100</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>LabelSkin03ba8a486667b44</skinId>
+                <skinId>Skin Defaults</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -3554,7 +3554,7 @@
             </a11yConfig>
         </children>
         <children xsi:type="khBox">
-            <ID>hbox1568159912432590</ID>
+            <ID>hbx3</ID>
             <gridMetaData>
                 <colSpan>1</colSpan>
                 <column>0</column>
@@ -3655,9 +3655,9 @@
                 <bb_override>false</bb_override>
                 <default_override>true</default_override>
                 <defaults>
-                    <left>0</left>
+                    <left>2</left>
                     <right>0</right>
-                    <top>5</top>
+                    <top>0</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </defaults>
@@ -4301,7 +4301,7 @@
                     <width>100</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>LabelSkin03ba8a486667b44</skinId>
+                <skinId>Skin Defaults</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -5051,7 +5051,7 @@
                 <bb_override>false</bb_override>
                 <default_override>true</default_override>
                 <defaults>
-                    <left>0</left>
+                    <left>3</left>
                     <right>0</right>
                     <top>0</top>
                     <bottom>0</bottom>
@@ -6415,7 +6415,7 @@
             <releaseToPushRefreshi18nKey>None</releaseToPushRefreshi18nKey>
         </children>
         <children xsi:type="khBox">
-            <ID>CopyHBox03c50b568f6cf4d</ID>
+            <ID>hbxButtons</ID>
             <gridMetaData>
                 <colSpan>1</colSpan>
                 <column>0</column>
