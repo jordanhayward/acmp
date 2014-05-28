@@ -88,8 +88,8 @@ function saveWO(ev) {
 	kony.print('newly created WO:\n' + objectdump(createdWO))
 	
 	kony.print('frmCreateWO.info\n' + objectdump(frmCreateWO.info))
-	kony.print('frmCreateWO.info.rtnForm\n' + objectdump(frmCreateWO.info.rtnForm))
-	eval(frmCreateWO.info.rtnForm).show()
+	kony.print('frmCreateWO.info.rtnFormName\n' + objectdump(frmCreateWO.info.rtnFormName))
+	eval(frmCreateWO.info.rtnFormName).show()
 }
 
 function updateWO(ev) {
@@ -112,6 +112,7 @@ function sendMoreInfo(ev) {
 function approveWO(ev) {
 	kony.print('approveWO: ' + objectdump(ev))
 	// TODO approve WO
+	popWOApproval.dismiss()
 	frmApprovalWOList.show()
 }
 
@@ -145,14 +146,14 @@ function WorkOrder() {
 	// function to set all input fields on the CreateWO form
     WorkOrder.prototype.populateForm = function(frm) {
     	// TODO when passed a form, set all the fields to match the contents of the WorkOrder object
-		frm.txtTitle.text = title
-		frm.txtInspectorName.text = inspectorName
-		frm.lblAsset.text = assetName
-		frm.lblTruncatedDescription.text = description
-		frm.lblTruncatedValveComment.text = valveComment
-		frm.swiATF.selectedIndex = isATF ? 0 : 1
-		frm.swiLocked.selectedIndex = isLocked ? 0 : 1
-		frm.swiLubricated.selectedIndex = isLubricated ? 0 : 1
+		frm.txtTitle.text = this.title
+		frm.txtInspectorName.text = this.inspectorName
+		frm.lblAsset.text = this.assetName
+		frm.lblTruncatedDescription.text = this.description
+		frm.lblTruncatedValveComment.text = this.valveComment
+		frm.swiATF.selectedIndex = this.isATF ? 0 : 1
+		frm.swiLocked.selectedIndex = this.isLocked ? 0 : 1
+		frm.swiLubricated.selectedIndex = this.isLubricated ? 0 : 1
 		// TODO set all comboboxes
     }
     
@@ -190,7 +191,7 @@ currentWO = {
 	isLocked:false,
 	isLubricated:true
 }
-kony.print('currentWO:\n' + objectdump(currentWO))
+kony.print('before setting __proto__ of currentWO:\n' + objectdump(currentWO))
 currentWO.__proto__ = WorkOrder.prototype		// mix-in the functions of the WorkOrder "class" in workorder.js
-kony.print('currentWO:\n' + objectdump(currentWO))
+kony.print('after setting __proto__ of currentWO:\n' + objectdump(currentWO))
 

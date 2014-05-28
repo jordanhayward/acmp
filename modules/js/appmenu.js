@@ -15,10 +15,17 @@ function initNavMenu() {
 	formList.forEach(function(form) {
 		kony.print('formList entry: ' + form)
 		navList.forEach(function(nav) {
-			kony.print('navList entry: ' + nav)
+			kony.print('navList entry: ' + nav.buttonName)
 			var cmd = form + '.' + nav.buttonName + '.onClick = nav.action'
-			kony.print('command: ' + cmd)
+			kony.print('onClick command: ' + cmd)
 			eval(cmd)
 		})
+		
+		// set a More Info badge
+		var cmd = form + '.navMoreInfo.setBadge("1")'
+		kony.print('badge command: ' + cmd)
+		eval(cmd)
 	})
 }
+
+

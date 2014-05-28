@@ -23,6 +23,7 @@
         <height>false</height>
     </overridePerferred>
     <projectName>AccessMidV3</projectName>
+    <formName>hdrEdit</formName>
     <platform>0</platform>
     <mode>2</mode>
     <formCategory>100</formCategory>
@@ -2689,6 +2690,103 @@
                 </overridePerferred>
                 <contentAlign>4</contentAlign>
                 <parent_contentalignment>middle-center</parent_contentalignment>
+                <event_onClick>
+                    <evtSequence>
+                        <actionList xsi:type="eventFunctionAction">
+                            <enabled>true</enabled>
+                            <name></name>
+                            <type>6</type>
+                            <functionName>None</functionName>
+                            <functionNameMap>
+                                <entry>
+                                    <key>js</key>
+                                    <value>openCreateWO</value>
+                                </entry>
+                            </functionNameMap>
+                            <paramData>
+                                <datatype>string</datatype>
+                                <paramName>isNew</paramName>
+                                <valType>0</valType>
+                                <value>false</value>
+                                <valueMap>
+                                    <entry>
+                                        <key>js</key>
+                                        <value>false</value>
+                                    </entry>
+                                </valueMap>
+                            </paramData>
+                            <paramData>
+                                <datatype>string</datatype>
+                                <paramName>wo</paramName>
+                                <valType>0</valType>
+                                <value>currentWO</value>
+                                <valueMap>
+                                    <entry>
+                                        <key>js</key>
+                                        <value>currentWO</value>
+                                    </entry>
+                                </valueMap>
+                            </paramData>
+                            <paramData>
+                                <datatype>string</datatype>
+                                <paramName>rtnFormName</paramName>
+                                <valType>0</valType>
+                                <value>'frmViewMoreInfo'</value>
+                                <valueMap>
+                                    <entry>
+                                        <key>js</key>
+                                        <value>'frmViewMoreInfo'</value>
+                                    </entry>
+                                </valueMap>
+                            </paramData>
+                            <paramDataMap>
+                                <entry>
+                                    <key>js</key>
+                                    <value>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>isNew</paramName>
+                                            <valType>0</valType>
+                                            <value>false</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>false</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>wo</paramName>
+                                            <valType>0</valType>
+                                            <value>currentWO</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>currentWO</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>rtnFormName</paramName>
+                                            <valType>0</valType>
+                                            <value>'frmViewMoreInfo'</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>'frmViewMoreInfo'</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                    </value>
+                                </entry>
+                            </paramDataMap>
+                        </actionList>
+                        <enabled>true</enabled>
+                        <seqname></seqname>
+                    </evtSequence>
+                </event_onClick>
                 <parallel_exec>false</parallel_exec>
                 <iphone_glow_effect>false</iphone_glow_effect>
                 <iphone_3d_look>true</iphone_3d_look>

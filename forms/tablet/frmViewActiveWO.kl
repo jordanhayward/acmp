@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>FormSkin095d8ff92193f4f</skinId>
+        <skinId>frmLightBkgnd</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -3410,12 +3410,16 @@
                                     <key>js</key>
                                     <value>openCreateWO</value>
                                 </entry>
+                                <entry>
+                                    <key>lua</key>
+                                    <value>None</value>
+                                </entry>
                             </functionNameMap>
                             <paramData>
                                 <datatype>string</datatype>
                                 <paramName>isNew</paramName>
                                 <valType>0</valType>
-                                <value>false</value>
+                                <value></value>
                                 <valueMap>
                                     <entry>
                                         <key>js</key>
@@ -3427,7 +3431,7 @@
                                 <datatype>string</datatype>
                                 <paramName>wo</paramName>
                                 <valType>0</valType>
-                                <value>currentWO</value>
+                                <value></value>
                                 <valueMap>
                                     <entry>
                                         <key>js</key>
@@ -3439,7 +3443,7 @@
                                 <datatype>string</datatype>
                                 <paramName>rtnForm</paramName>
                                 <valType>0</valType>
-                                <value>frmViewActiveWO</value>
+                                <value></value>
                                 <valueMap>
                                     <entry>
                                         <key>js</key>
@@ -3455,7 +3459,7 @@
                                             <datatype>string</datatype>
                                             <paramName>isNew</paramName>
                                             <valType>0</valType>
-                                            <value>false</value>
+                                            <value></value>
                                             <valueMap>
                                                 <entry>
                                                     <key>js</key>
@@ -3467,7 +3471,48 @@
                                             <datatype>string</datatype>
                                             <paramName>wo</paramName>
                                             <valType>0</valType>
-                                            <value>currentWO</value>
+                                            <value></value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>currentWO</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>rtnFormName</paramName>
+                                            <valType>0</valType>
+                                            <value>'frmViewActiveWO'</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>'frmViewActiveWO'</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                    </value>
+                                </entry>
+                                <entry>
+                                    <key>lua</key>
+                                    <value>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>isNew</paramName>
+                                            <valType>0</valType>
+                                            <value></value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>false</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>wo</paramName>
+                                            <valType>0</valType>
+                                            <value></value>
                                             <valueMap>
                                                 <entry>
                                                     <key>js</key>
@@ -3479,7 +3524,7 @@
                                             <datatype>string</datatype>
                                             <paramName>rtnForm</paramName>
                                             <valType>0</valType>
-                                            <value>frmViewActiveWO</value>
+                                            <value></value>
                                             <valueMap>
                                                 <entry>
                                                     <key>js</key>
@@ -7555,7 +7600,7 @@
                         </xhtmlNormal>
                         <xhtmlNormal_override>false</xhtmlNormal_override>
                     </paddings>
-                    <SText>More Info Needed (1)</SText>
+                    <SText>More Info Needed</SText>
                     <overridePerferred>
                         <width>true</width>
                         <height>false</height>

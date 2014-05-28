@@ -6083,7 +6083,7 @@
                         </xhtmlNormal>
                         <xhtmlNormal_override>false</xhtmlNormal_override>
                     </paddings>
-                    <SText>More Info Needed (1)</SText>
+                    <SText>More Info Needed</SText>
                     <overridePerferred>
                         <width>true</width>
                         <height>false</height>

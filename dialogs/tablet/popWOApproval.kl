@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>slPopup</skinId>
+        <skinId>PopupSkin07a580af856f24b</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -6911,12 +6911,33 @@
                             <functionNameMap>
                                 <entry>
                                     <key>js</key>
-                                    <value>setWOstatus</value>
+                                    <value>approveWO</value>
+                                </entry>
+                                <entry>
+                                    <key>lua</key>
+                                    <value>None</value>
                                 </entry>
                             </functionNameMap>
                             <paramDataMap>
                                 <entry>
                                     <key>js</key>
+                                    <value>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>ev</paramName>
+                                            <valType>0</valType>
+                                            <value>eventobject</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>eventobject</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                    </value>
+                                </entry>
+                                <entry>
+                                    <key>lua</key>
                                     <value/>
                                 </entry>
                             </paramDataMap>

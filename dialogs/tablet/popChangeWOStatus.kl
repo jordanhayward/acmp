@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>slPopup</skinId>
+        <skinId>PopupSkin07a580af856f24b</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
