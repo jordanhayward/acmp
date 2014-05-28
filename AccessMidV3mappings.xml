@@ -6,15 +6,18 @@
     <container type="form" id="frmApprovalWOList" displayname="Form"/>
     <container type="form" id="frmCreateWO" displayname="Form">
         <component type="textbox2" id="txtTitle" displayname="TextBox2"/>
-        <component type="combobox" id="ComboBox0c5169188404d4d" displayname="ComboBox"/>
+        <component type="combobox" id="cbxProblemCode" displayname="ComboBox"/>
         <component type="combobox" id="cbxWorkType" displayname="ComboBox"/>
         <component type="combobox" id="cbxWorkSubtype" displayname="ComboBox"/>
         <component type="combobox" id="cbxWorkCategory" displayname="ComboBox"/>
         <component type="combobox" id="cbxWorkSubcategory" displayname="ComboBox"/>
-        <component type="combobox" id="CopyComboBox066b2a180a53c42" displayname="ComboBox"/>
-        <component type="combobox" id="CopyComboBox044e2ed2adaa347" displayname="ComboBox"/>
-        <component type="combobox" id="ComboBox0062ed8347b8446" displayname="ComboBox"/>
+        <component type="combobox" id="cbxPriority" displayname="ComboBox"/>
+        <component type="combobox" id="cbxCauseCode" displayname="ComboBox"/>
+        <component type="combobox" id="cbxRemedyCode" displayname="ComboBox"/>
         <component type="combobox" id="CopyComboBox0e3d53e26078543" displayname="ComboBox"/>
+        <component type="combobox" id="cbxOperatingCondition" displayname="ComboBox"/>
+        <component type="textbox2" id="txtInspectorName" displayname="TextBox2"/>
+        <component type="calendar" id="calInspectionDate" displayname="Calendar"/>
     </container>
     <container type="form" id="frmDowntime" displayname="Form">
         <component type="combobox" id="CopyComboBox0c4d3e9e37f1c49" displayname="ComboBox"/>

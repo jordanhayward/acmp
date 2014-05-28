@@ -1,17 +1,12 @@
-// handle submit from popLongDesc
-function updateLongDesc() {
-	// TODO update WO
-	// TODO update partial display of long description
-	popLongdesc.dismiss()
-}
-
 // handle submit from popTimePicker
-function updateTime() {
+function updateTime(ev) {
 	// TODO update WO
 	// TODO update display of time
 	popTimePicker.dismiss()
 }
 
+
+// JavaScript utilities /////////////////////////////////////////////////////////
 // inverse lookup into an object to find the key for a value
 function getKeyByValue( obj, value ) {
 	for( var prop in obj ) {
@@ -43,4 +38,3 @@ function objectdump(arr,level) {
     }
     return dumped_text;
 }
- 

@@ -107,8 +107,18 @@ function hierarchySelect(ev) {
 	// TODO use info to track which form you came from, so that you set the asset text on the correct form
 	try {
 		frmCreateWO.lblAsset.text = selection[0].name
-	} catch(e) {}
-	
+		
+		// determine whether to show or hide valve inspection section
+		if( selection[0].name.indexOf('valve') > -1 ) {
+			kony.print('this is a valve')
+			frmCreateWO.hbxValveInspection.isVisible = true
+		} else {
+			kony.print('this is not a valve')
+			frmCreateWO.hbxValveInspection.isVisible = false
+		}
+		
+	} catch(e) { kony.print('exception occurred with selection[0].name ... selection: ' + objectdump(selection)) }
+		
 	// dismiss the popup
 	currentPopup.dismiss()
 }
@@ -257,7 +267,7 @@ subequipments = [
 ]
 
 instruments = [
-	{id:'instrument1', name:'instrument 1-1', lat:123.456, lng:76.54, parenttype:'subequipment', parentid:'subequipment1'},
+	{id:'instrument1', name:'valve 1-1',      lat:123.456, lng:76.54, parenttype:'subequipment', parentid:'subequipment1'},
 	{id:'instrument2', name:'instrument 1-2', lat:123.456, lng:76.54, parenttype:'subequipment', parentid:'subequipment1'},
 	{id:'instrument3', name:'instrument 2-1', lat:123.456, lng:76.54, parenttype:'subequipment', parentid:'subequipment2'},
 	{id:'instrument4', name:'instrument 3-1', lat:123.456, lng:76.54, parenttype:'subequipment', parentid:'subequipment3'}

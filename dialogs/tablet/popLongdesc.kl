@@ -5451,10 +5451,31 @@
                                             <key>js</key>
                                             <value>updateLongDesc</value>
                                         </entry>
+                                        <entry>
+                                            <key>lua</key>
+                                            <value>None</value>
+                                        </entry>
                                     </functionNameMap>
                                     <paramDataMap>
                                         <entry>
                                             <key>js</key>
+                                            <value>
+                                                <paramList>
+                                                    <datatype>string</datatype>
+                                                    <paramName>ev</paramName>
+                                                    <valType>0</valType>
+                                                    <value>eventobject</value>
+                                                    <valueMap>
+                                                        <entry>
+                                                            <key>js</key>
+                                                            <value>eventobject</value>
+                                                        </entry>
+                                                    </valueMap>
+                                                </paramList>
+                                            </value>
+                                        </entry>
+                                        <entry>
+                                            <key>lua</key>
                                             <value/>
                                         </entry>
                                     </paramDataMap>
