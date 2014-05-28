@@ -427,7 +427,7 @@
         <dialog_width>75</dialog_width>
         <headerId>None</headerId>
         <footerId>None</footerId>
-        <title>hbx3</title>
+        <title></title>
         <init>
             <evtSequence>
                 <enabled>true</enabled>
@@ -7775,7 +7775,7 @@
                 </a11yConfig>
             </children>
             <children xsi:type="kButton">
-                <ID>CopyButton0ccfb73b5615340</ID>
+                <ID>btnSelect</ID>
                 <gridMetaData>
                     <colSpan>1</colSpan>
                     <column>0</column>

@@ -125,7 +125,7 @@ function hierarchySelect(ev) {
 
 // event handler when the user presses a row in a segment to drill down
 function hierarchyNavigateDown(ev) {
-	kony.print('hierarchyNavigateDown: ' + objectdump(ev))
+	kony.print('hierarchyNavigateDown: \n' + objectdump(ev))
 	var curDepth = ev.focusedItem.depth
 	var curId = ev.focusedItem.id
 	kony.print('curDepth: ' + curDepth)
@@ -165,13 +165,16 @@ function hierarchyNavigateDown(ev) {
 		currentPopup = nextForm
 	}
 	
+	// change label of Select button to show name of current selection
+	currentPopup.btnSelect.text = 'Select ' + ev.focusedItem.name
+	
 	kony.print('breadcrumbs: ' + objectdump(breadcrumb))
 	kony.print('idOfUserSelection: ' + idOfUserSelection)
 }
 
 // event handler when the user presses a label above to navigate back up
 function hierarchyNavigateUp(ev) {
-	kony.print('hierarchyNavigateUp: ' + objectdump(ev))
+	kony.print('hierarchyNavigateUp: \n' + objectdump(ev))
 	
 	var backDepth = parseInt(ev.id.substring(3))
 	kony.print('backDepth: ' + backDepth)
@@ -188,6 +191,9 @@ function hierarchyNavigateUp(ev) {
 	backForm.show()
 	currentPopup.dismiss()
 	currentPopup = backForm
+	
+	// change label of Select button to show name of current selection
+	currentPopup.btnSelect.text = 'Select ' + ev[Object.keys(ev)[0]].text
 	
 	kony.print('breadcrumbs: ' + objectdump(breadcrumb))
 	kony.print('idOfUserSelection: ' + idOfUserSelection)

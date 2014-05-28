@@ -3746,7 +3746,7 @@
                 </a11yConfig>
             </children>
             <children xsi:type="kButton">
-                <ID>CopyButton0302e6379156b45</ID>
+                <ID>btnSelect</ID>
                 <gridMetaData>
                     <colSpan>1</colSpan>
                     <column>0</column>
