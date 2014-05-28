@@ -12,6 +12,15 @@ function updateTime() {
 	popTimePicker.dismiss()
 }
 
+// inverse lookup into an object to find the key for a value
+function getKeyByValue( obj, value ) {
+	for( var prop in obj ) {
+		if( obj.hasOwnProperty( prop ) ) {
+			if( obj[ prop ] === value )
+				return prop;
+		}
+	}
+}
 
 // for debugging
 function objectdump(arr,level) {

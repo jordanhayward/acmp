@@ -3,8 +3,34 @@
  * 
  */
  
+// state variables
+// this tracks the selected item at each level by storing the id as the value
+breadcrumb = {1:null, 2:null, 3:null, 4:null, 5:null, 6:null, 7:null, 8:null, 9:null}
+// TODO change the skin of the user selection
+idOfUserSelection = null				// the id of the most recent user selection
+currentPopup = null						// the currently displayed popup
  
 // UI functions ////////////////////////////////////////////////////////////////
+// open a fresh navigator at the top level
+function openCleanNavigator() {
+	currentPopup = popupSite		// TODO hardcoded form name
+	breadcrumb = {1:null, 2:null, 3:null, 4:null, 5:null, 6:null, 7:null, 8:null, 9:null}
+	idOfUserSelection = null
+	currentPopup.show()
+}
+
+// open the most recent navigator in its current state
+function openLastNavigator() {
+	currentPopup = currentPopup || popupSite		// TODO hardcoded form name
+	currentPopup.show()
+}
+
+// open the most recent navigator at the level specified
+function openLastNavigatorToLevel(lvl) {
+	// TODO implement
+}
+
+// segment loading /////////////////////////////////////////////////////////////
 // load the actual segment
 function populateSegmentOfType(seg, type) {
 	kony.print('populateSegmentOfType(' + type + ')')
@@ -44,6 +70,9 @@ function populateNavUpLabels(depth, name) {
 	for( var i=depth+1; i < _.size(levels); ++i ) {
 		kony.print('  i='+i)
 		
+		// update breadcrumbs
+		breadcrumb[i] = null
+		
 		// set text
 		var cmd = levels[i].form + '.' + lblName + '.text="' + name + '"'
 		kony.print('  cmd: ' + cmd)
@@ -54,12 +83,34 @@ function populateNavUpLabels(depth, name) {
 		kony.print('  cmd: ' + cmd)
 		try { eval(cmd) } catch(e) { kony.print('  exception ') }
 	}
+	
+	kony.print('breadcrumbs: ' + objectdump(breadcrumb))
 }
 
 // event handlers //////////////////////////////////////////////////////////////////
 // event handler when the user presses the Select button on the hierarchy navigator
 function hierarchySelect(ev) {
 	kony.print('hierarchySelect: ' + objectdump(ev))
+	kony.print('breadcrumbs: ' + objectdump(breadcrumb))
+	kony.print('idOfUserSelection: ' + idOfUserSelection)
+	
+	// find the name of the selected item
+	var lvl = getKeyByValue(breadcrumb, idOfUserSelection)
+	kony.print('level of ' + idOfUserSelection + ' in breadcrumb is ' + lvl)
+	// find the data collection that matches the level
+	var data = levels[lvl].data
+	kony.print('matching data is ' + objectdump(data))
+	var selection = _.where(data, {id:idOfUserSelection})
+	kony.print('selection is ' + objectdump(selection))
+	
+	// set form field with name of selection
+	// TODO use info to track which form you came from, so that you set the asset text on the correct form
+	try {
+		frmCreateWO.lblAsset.text = selection[0].name
+	} catch(e) {}
+	
+	// dismiss the popup
+	currentPopup.dismiss()
 }
 
 // event handler when the user presses a row in a segment to drill down
@@ -69,6 +120,7 @@ function hierarchyNavigateDown(ev) {
 	var curId = ev.focusedItem.id
 	kony.print('curDepth: ' + curDepth)
 	kony.print('curId: ' + curId)
+	idOfUserSelection = curId					// always know the id of what was most recently selected by the user
 	var data = []
 	var elements = retrieveChildrenOf(levels[curDepth].type, curId)
 	
@@ -76,7 +128,11 @@ function hierarchyNavigateDown(ev) {
 	if( elements.length < 1 ) {
 		// no children
 		kony.print('No children!')
-		// TODO change skin
+		
+		// update breadcrumbs
+		breadcrumb[curDepth] = ev.focusedItem.id
+		
+		// TODO change skin of selection
 	} else {
 		// has children
 		elements.forEach(function(elem) {							// DRY!
@@ -87,22 +143,20 @@ function hierarchyNavigateDown(ev) {
 		
 		// update up nav fields
 		populateNavUpLabels(curDepth, ev.focusedItem.name)
+
+		// update breadcrumbs
+		breadcrumb[curDepth] = ev.focusedItem.id
 		
-		// swap forms
-		var curForm = eval(levels[curDepth].form)
+		// update segment and swap forms
 		var nextForm = eval(levels[curDepth+1].form)
-//	kony.print('curDepth: ' + curDepth)
-//	kony.print('curDepth+1: ' + curDepth+1)
-//	kony.print('levels[curDepth]: ' + levels[curDepth])
-//	kony.print('levels[curDepth+1]: ' + levels[curDepth+1])
-//	kony.print('levels[curDepth].form: ' + levels[curDepth].form)
-//	kony.print('levels[curDepth+1].form: ' + levels[curDepth+1].form)
-//	kony.print('curForm: ' + curForm)
-//	kony.print('nextForm: ' + nextForm)
 		nextForm.seg.setData(data)
 		nextForm.show()
-		curForm.dismiss()
+		currentPopup.dismiss()
+		currentPopup = nextForm
 	}
+	
+	kony.print('breadcrumbs: ' + objectdump(breadcrumb))
+	kony.print('idOfUserSelection: ' + idOfUserSelection)
 }
 
 // event handler when the user presses a label above to navigate back up
@@ -112,25 +166,26 @@ function hierarchyNavigateUp(ev) {
 	var backDepth = parseInt(ev.id.substring(3))
 	kony.print('backDepth: ' + backDepth)
 	kony.print('info: ' + ev.info)
-	var curPopup = eval(ev.info.form)
-	kony.print('curPopup: ' + curPopup)
+
+	// update most recent user selection
+	idOfUserSelection = breadcrumb[backDepth]				// always know the id of what was most recently selected by the user
 	
 	// swap forms
 	var backForm = eval(levels[backDepth].form)
 	kony.print('backDepth: ' + backDepth)
-	kony.print('levels[backDepth]: ' + levels[backDepth])
+	kony.print('levels[backDepth]: ' + objectdump(levels[backDepth]))
 	kony.print('levels[backDepth].form: ' + levels[backDepth].form)
-	kony.print('backForm: ' + backForm)
 	backForm.show()
-	curPopup.dismiss()
+	currentPopup.dismiss()
+	currentPopup = backForm
 	
+	kony.print('breadcrumbs: ' + objectdump(breadcrumb))
+	kony.print('idOfUserSelection: ' + idOfUserSelection)
 }
 
 // search and retrieval functions //////////////////////////////////////////////
 function retrieveChildrenOf(parentType, parentId) {
 	kony.print('retrieveChildrenOf(' + parentType + ', ' + parentId + ')')
-//	kony.print('levels: ' + levels)
-//	kony.print('levels: ' + objectdump(levels))
 	var lvl = _.findWhere(levels, {type:parentType})
 	kony.print('lvl: ' + lvl)
 	kony.print('lvl: ' + objectdump(lvl))

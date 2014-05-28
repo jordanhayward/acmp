@@ -12273,7 +12273,7 @@
                         </a11yConfig>
                     </children>
                     <children xsi:type="kLabel">
-                        <ID>Label03e6fb1d37b3342</ID>
+                        <ID>lblAsset</ID>
                         <gridMetaData>
                             <colSpan>1</colSpan>
                             <column>0</column>
@@ -14265,16 +14265,23 @@
                         <parent_contentalignment>middle-center</parent_contentalignment>
                         <event_onClick>
                             <evtSequence>
-                                <actionList xsi:type="eventFormAction">
+                                <actionList xsi:type="eventFunctionAction">
                                     <enabled>true</enabled>
                                     <name></name>
-                                    <type>1</type>
-                                    <destType>1</destType>
-                                    <navigateFrom>frmCreateWO</navigateFrom>
-                                    <navigateTo>popupSite</navigateTo>
-                                    <newOutputMapping/>
-                                    <outputMapping/>
-                                    <platform>0</platform>
+                                    <type>6</type>
+                                    <functionName>None</functionName>
+                                    <functionNameMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value>openLastNavigator</value>
+                                        </entry>
+                                    </functionNameMap>
+                                    <paramDataMap>
+                                        <entry>
+                                            <key>js</key>
+                                            <value/>
+                                        </entry>
+                                    </paramDataMap>
                                 </actionList>
                                 <enabled>true</enabled>
                                 <seqname></seqname>
