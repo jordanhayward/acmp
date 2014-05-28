@@ -2,7 +2,7 @@
 
 formList = ['frmActiveWOList', 'frmApprovalWOList', 'frmCreateWO', 'frmDowntime', 'frmEditActiveWO', 'frmMainMenu', 'frmMoreInfoList', 'frmViewActiveWO', 'frmViewAwaitingWO', 'frmViewMoreInfo']
 navList = [
-	{buttonName:'navCreateWorkOrder', formName:'frmCreateWO', action:function(){frmCreateWO.show()}},
+	{buttonName:'navCreateWorkOrder', formName:'frmCreateWO', action:function(){openCreateWO(true, null, 'frmMainMenu')}},
 	{buttonName:'navActiveWorkOrders', formName:'frmActiveWOList', action:function(){frmActiveWOList.show()}},
 	{buttonName:'navAwaitingApproval',  formName:'frmApprovalWOList', action:function(){frmApprovalWOList.show()}},
 	{buttonName:'navMoreInfo', formName:'frmMoreInfoList', action:function(){frmMoreInfoList.show()}},
