@@ -1484,7 +1484,30 @@
             </paddings>
             <columns>
                 <colList>
-                    <id>col1568159912405691</id>
+                    <id>col1568159912543723</id>
+                    <colType>0</colType>
+                    <rowTemplate></rowTemplate>
+                    <colHeaderType>0</colHeaderType>
+                    <colHeader>id</colHeader>
+                    <colHeaderData xsi:type="templateData">
+                        <gridTemplateName>None</gridTemplateName>
+                    </colHeaderData>
+                    <colWidth>0</colWidth>
+                    <showOnly>false</showOnly>
+                    <visible>true</visible>
+                    <sort>false</sort>
+                    <event_onClick>
+                        <evtSequence>
+                            <enabled>true</enabled>
+                            <seqname></seqname>
+                        </evtSequence>
+                    </event_onClick>
+                    <align>4</align>
+                    <updatedToNewDataGridData>false</updatedToNewDataGridData>
+                    <kuid>columndata1568159912543724</kuid>
+                </colList>
+                <colList>
+                    <id>col1568159912543673</id>
                     <colType>0</colType>
                     <rowTemplate></rowTemplate>
                     <colHeaderType>0</colHeaderType>
@@ -1504,30 +1527,7 @@
                     </event_onClick>
                     <align>4</align>
                     <updatedToNewDataGridData>false</updatedToNewDataGridData>
-                    <kuid>columndata1568159912405692</kuid>
-                </colList>
-                <colList>
-                    <id>col1568159912405693</id>
-                    <colType>0</colType>
-                    <rowTemplate></rowTemplate>
-                    <colHeaderType>0</colHeaderType>
-                    <colHeader>type</colHeader>
-                    <colHeaderData xsi:type="templateData">
-                        <gridTemplateName>None</gridTemplateName>
-                    </colHeaderData>
-                    <colWidth>0</colWidth>
-                    <showOnly>false</showOnly>
-                    <visible>true</visible>
-                    <sort>false</sort>
-                    <event_onClick>
-                        <evtSequence>
-                            <enabled>true</enabled>
-                            <seqname></seqname>
-                        </evtSequence>
-                    </event_onClick>
-                    <align>4</align>
-                    <updatedToNewDataGridData>false</updatedToNewDataGridData>
-                    <kuid>columndata1568159912405694</kuid>
+                    <kuid>columndata1568159912543674</kuid>
                 </colList>
             </columns>
             <rowTemplate>None</rowTemplate>

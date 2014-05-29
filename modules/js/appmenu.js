@@ -22,9 +22,15 @@ function initNavMenu() {
 		})
 		
 		// set a More Info badge
-		var cmd = form + '.navMoreInfo.setBadge("1")'
-		kony.print('badge command: ' + cmd)
-		eval(cmd)
+        var devinfo = kony.os.deviceInfo();
+        var ostype = devinfo["name"];
+        
+        if (kony.string.startsWith(ostype, "i", true))
+        {
+	        var cmd = form + '.navMoreInfo.setBadge("1")';
+	        kony.print('badge command: ' + cmd);
+	        eval(cmd);
+        }
 	})
 }
 

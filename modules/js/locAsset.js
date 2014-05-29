@@ -33,13 +33,13 @@ function openLastNavigatorToLevel(lvl) {
 // segment loading /////////////////////////////////////////////////////////////
 // load the actual segment
 function populateSegmentOfType(seg, type) {
-	kony.print('populateSegmentOfType(' + type + ')')
-	seg.setData(buildSegDataByType(type))
+	kony.print('populateSegmentOfType(' + type + ')');
+	seg.setData(buildSegDataByType(type));
 }
 
 function populateSegmentAtDepth(seg, depth) {
-	kony.print('populateSegmentAtDepth(' + depth + ')')
-	seg.setData(buildSegDataByDepth(depth))
+	kony.print('populateSegmentAtDepth(' + depth + ')');
+	seg.setData(buildSegDataByDepth(depth));
 }
 
 // build the data to go into the segment and return it
@@ -47,15 +47,21 @@ function buildSegDataByType(type) {
 	kony.print('buildSegDataByType(' + type + ')')
 }
 
+// reused in buildSegDataByDepth and hierarchyNavigateDown
+function transformLevelForSegData(elements, depth) {
+	var data = []
+	elements.forEach(function(elem) {
+		kony.print('transformLevelForSegData element: ' + objectdump(elem))
+		var newRow = _.extend(_.pick(elem, 'id', 'name'), {depth:depth})
+		kony.print('transformLevelForSegData newRow: ' + objectdump(newRow))
+		data.push(newRow)
+	})
+	return data
+}
+
 function buildSegDataByDepth(depth) {
 	kony.print('buildSegDataByDepth(' + depth + ')')
-	var data = []
-	var elements = levels[depth].data
-	elements.forEach(function(elem) {							// DRY!
-		kony.print('element: ' + objectdump(elem))
-		data.push(_.extend(elem, {depth:depth}))
-	})
-	
+	var data = transformLevelForSegData(levels[depth].data, depth)
 	kony.print('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> buildSegDataByDepth segdata: ' + objectdump(data))
 	return data
 }
@@ -131,7 +137,6 @@ function hierarchyNavigateDown(ev) {
 	kony.print('curDepth: ' + curDepth)
 	kony.print('curId: ' + curId)
 	idOfUserSelection = curId					// always know the id of what was most recently selected by the user
-	var data = []
 	var elements = retrieveChildrenOf(levels[curDepth].type, curId)
 	
 	// does this element have any children?
@@ -145,10 +150,7 @@ function hierarchyNavigateDown(ev) {
 		// TODO change skin of selection
 	} else {
 		// has children
-		elements.forEach(function(elem) {							// DRY!
-			kony.print('element: ' + objectdump(elem))
-			data.push(_.extend(elem, {depth:curDepth+1}))
-		})
+		var data = transformLevelForSegData(elements, curDepth+1)
 		kony.print('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> hierarchyNavigateDown segdata: ' + objectdump(data))
 		
 		// update up nav fields

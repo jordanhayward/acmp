@@ -4166,7 +4166,54 @@
                 </xhtmlNormal>
                 <xhtmlNormal_override>false</xhtmlNormal_override>
             </paddings>
-            <columns/>
+            <columns>
+                <colList>
+                    <id>col1568159912543805</id>
+                    <colType>0</colType>
+                    <rowTemplate></rowTemplate>
+                    <colHeaderType>0</colHeaderType>
+                    <colHeader>id</colHeader>
+                    <colHeaderData xsi:type="templateData">
+                        <gridTemplateName>None</gridTemplateName>
+                    </colHeaderData>
+                    <colWidth>0</colWidth>
+                    <showOnly>false</showOnly>
+                    <visible>true</visible>
+                    <sort>false</sort>
+                    <event_onClick>
+                        <evtSequence>
+                            <enabled>true</enabled>
+                            <seqname></seqname>
+                        </evtSequence>
+                    </event_onClick>
+                    <align>4</align>
+                    <updatedToNewDataGridData>false</updatedToNewDataGridData>
+                    <kuid>columndata1568159912543806</kuid>
+                </colList>
+                <colList>
+                    <id>col1568159912543807</id>
+                    <colType>0</colType>
+                    <rowTemplate></rowTemplate>
+                    <colHeaderType>0</colHeaderType>
+                    <colHeader>depth</colHeader>
+                    <colHeaderData xsi:type="templateData">
+                        <gridTemplateName>None</gridTemplateName>
+                    </colHeaderData>
+                    <colWidth>0</colWidth>
+                    <showOnly>false</showOnly>
+                    <visible>true</visible>
+                    <sort>false</sort>
+                    <event_onClick>
+                        <evtSequence>
+                            <enabled>true</enabled>
+                            <seqname></seqname>
+                        </evtSequence>
+                    </event_onClick>
+                    <align>4</align>
+                    <updatedToNewDataGridData>false</updatedToNewDataGridData>
+                    <kuid>columndata1568159912543808</kuid>
+                </colList>
+            </columns>
             <rowTemplate>None</rowTemplate>
             <secHeaderTemplate>None</secHeaderTemplate>
             <choiceData>
