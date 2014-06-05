@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>PopupSkin0f2ea9ef78c8c4a</skinId>
+        <skinId>popupDefault</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -10003,7 +10003,7 @@
                     <width>100</width>
                     <height>62</height>
                 </sizePercent>
-                <skinId>Skin Defaults</skinId>
+                <skinId>lblTextDefault</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -11315,8 +11315,8 @@
                     <width>50</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin0eec2632b296542</skinId>
-                <focusSkinId>ButtonSkin0b808073a1ff042</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -12024,8 +12024,8 @@
                     <width>50</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin07b7645d258804f</skinId>
-                <focusSkinId>ButtonSkin0da44eade35bf40</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>

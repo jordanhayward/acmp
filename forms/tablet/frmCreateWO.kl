@@ -72,9 +72,9 @@
             <desktop_kiosk_channel>true</desktop_kiosk_channel>
             <desktop_web_channel>true</desktop_web_channel>
             <mixed_android>true</mixed_android>
-            <mixed_android_tab>true</mixed_android_tab>
+            <mixed_android_tab>false</mixed_android_tab>
             <mixed_bb>true</mixed_bb>
-            <mixed_ipad>true</mixed_ipad>
+            <mixed_ipad>false</mixed_ipad>
             <mixed_iphone>true</mixed_iphone>
             <rc_android>true</rc_android>
             <rc_android_tab>false</rc_android_tab>
@@ -85,12 +85,12 @@
             <rc_j2me>true</rc_j2me>
             <rc_palm>true</rc_palm>
             <rc_symbian>true</rc_symbian>
-            <rc_windows8>true</rc_windows8>
+            <rc_windows8>false</rc_windows8>
             <rc_winmobile>true</rc_winmobile>
             <rc_winmobile6x>true</rc_winmobile6x>
             <rc_winphone8>true</rc_winphone8>
             <tabspa_ipad>false</tabspa_ipad>
-            <tabspa_windows>true</tabspa_windows>
+            <tabspa_windows>false</tabspa_windows>
             <tabspaspa_android>false</tabspaspa_android>
             <tc_spaandroid>true</tc_spaandroid>
             <tc_spabb>true</tc_spabb>
@@ -106,21 +106,21 @@
             <tc_xhtml_advpalm1>true</tc_xhtml_advpalm1>
             <tc_xhtml_js>true</tc_xhtml_js>
             <wrapper_android>true</wrapper_android>
-            <wrapper_android_tab>true</wrapper_android_tab>
+            <wrapper_android_tab>false</wrapper_android_tab>
             <wrapper_bb>true</wrapper_bb>
-            <wrapper_ipad>true</wrapper_ipad>
+            <wrapper_ipad>false</wrapper_ipad>
             <wrapper_iphone>true</wrapper_iphone>
         </rendererData>
         <rendererData1>
             <desktop_kiosk_channel>true</desktop_kiosk_channel>
             <desktop_web_channel>true</desktop_web_channel>
             <mixed_android>true</mixed_android>
-            <mixed_android_tab>true</mixed_android_tab>
+            <mixed_android_tab>false</mixed_android_tab>
             <mixed_bb>true</mixed_bb>
-            <mixed_ipad>true</mixed_ipad>
+            <mixed_ipad>false</mixed_ipad>
             <mixed_iphone>true</mixed_iphone>
             <rc_android>true</rc_android>
-            <rc_android_tab>false</rc_android_tab>
+            <rc_android_tab>true</rc_android_tab>
             <rc_blackberry>true</rc_blackberry>
             <rc_blackberry10>true</rc_blackberry10>
             <rc_ipad>true</rc_ipad>
@@ -134,7 +134,7 @@
             <rc_winphone8>true</rc_winphone8>
             <tabspa_ipad>true</tabspa_ipad>
             <tabspa_windows>true</tabspa_windows>
-            <tabspaspa_android>false</tabspaspa_android>
+            <tabspaspa_android>true</tabspaspa_android>
             <tc_spaandroid>true</tc_spaandroid>
             <tc_spabb>true</tc_spabb>
             <tc_spabb_nth>true</tc_spabb_nth>
@@ -2082,8 +2082,8 @@
                         <width>100</width>
                         <height>2</height>
                     </sizePercent>
-                    <skinId>ButtonSkin0952f6c3d83fd4e</skinId>
-                    <focusSkinId>ButtonSkin019729ff826cb47</focusSkinId>
+                    <skinId>btnNavMenuActive</skinId>
+                    <focusSkinId>btnNavMenuFocus</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
                     <rendererData>
@@ -2773,8 +2773,8 @@
                         <width>100</width>
                         <height>2</height>
                     </sizePercent>
-                    <skinId>ButtonSkin067f6aab6a1e74c</skinId>
-                    <focusSkinId>ButtonSkin0ffbda83ce99b4e</focusSkinId>
+                    <skinId>btnNavMenuInactive</skinId>
+                    <focusSkinId>btnNavMenuFocus</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
                     <rendererData>
@@ -3464,8 +3464,8 @@
                         <width>100</width>
                         <height>2</height>
                     </sizePercent>
-                    <skinId>navbtnUnselected</skinId>
-                    <focusSkinId>ButtonSkin02e0c02476d6d43</focusSkinId>
+                    <skinId>btnNavMenuInactive</skinId>
+                    <focusSkinId>btnNavMenuFocus</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
                     <rendererData>
@@ -4155,8 +4155,8 @@
                         <width>100</width>
                         <height>2</height>
                     </sizePercent>
-                    <skinId>ButtonSkin01addd494a7634e</skinId>
-                    <focusSkinId>ButtonSkin0faabb411469643</focusSkinId>
+                    <skinId>btnNavMenuInactive</skinId>
+                    <focusSkinId>btnNavMenuFocus</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
                     <rendererData>
@@ -4846,8 +4846,8 @@
                         <width>100</width>
                         <height>2</height>
                     </sizePercent>
-                    <skinId>ButtonSkin02de042292ef643</skinId>
-                    <focusSkinId>ButtonSkin000197d0a033949</focusSkinId>
+                    <skinId>btnNavMenuInactive</skinId>
+                    <focusSkinId>btnNavMenuFocus</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
                     <rendererData>
@@ -6839,7 +6839,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin036aea30314394b</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -7493,8 +7493,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>TextFieldSkin068312c5678c341</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>tBoxDefault</skinId>
+                        <focusSkinId>tBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <android_containerHeightMode>TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT</android_containerHeightMode>
@@ -7851,10 +7851,10 @@
                             <bb_override>false</bb_override>
                             <default_override>true</default_override>
                             <defaults>
-                                <left>3</left>
+                                <left>1</left>
                                 <right>1</right>
-                                <top>2</top>
-                                <bottom>2</bottom>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </defaults>
                             <desktop_kiosk>
@@ -7963,10 +7963,10 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
                             <windows8_override>false</windows8_override>
@@ -8960,7 +8960,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin036aea30314394b</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -10269,8 +10269,8 @@
                             <width>9</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin0f1b25c8a740f4c</skinId>
-                        <focusSkinId>slButtonGlossRed</focusSkinId>
+                        <skinId>btnPen</skinId>
+                        <focusSkinId>btnPen</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>
@@ -11645,7 +11645,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -12955,7 +12955,7 @@
                             <height>100</height>
                         </sizePercent>
                         <skinId>btnBarcode</skinId>
-                        <focusSkinId>ButtonSkin0b84187ab419042</focusSkinId>
+                        <focusSkinId>btnBarcode</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>
@@ -13676,7 +13676,7 @@
                             <height>100</height>
                         </sizePercent>
                         <skinId>btnChoose</skinId>
-                        <focusSkinId>ButtonSkin0b84187ab419042</focusSkinId>
+                        <focusSkinId>btnChoose</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>
@@ -15058,7 +15058,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -15712,8 +15712,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -16171,13 +16171,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -17133,7 +17133,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -17787,8 +17787,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -17819,6 +17819,23 @@
                                     <paramDataMap>
                                         <entry>
                                             <key>js</key>
+                                            <value>
+                                                <paramList>
+                                                    <datatype>string</datatype>
+                                                    <paramName>ev</paramName>
+                                                    <valType>0</valType>
+                                                    <value>eventobject</value>
+                                                    <valueMap>
+                                                        <entry>
+                                                            <key>js</key>
+                                                            <value>eventobject</value>
+                                                        </entry>
+                                                    </valueMap>
+                                                </paramList>
+                                            </value>
+                                        </entry>
+                                        <entry>
+                                            <key>lua</key>
                                             <value>
                                                 <paramList>
                                                     <datatype>string</datatype>
@@ -18289,13 +18306,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -19251,7 +19268,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -19905,8 +19922,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -20364,13 +20381,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -21410,7 +21427,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -22064,8 +22081,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -22096,6 +22113,23 @@
                                     <paramDataMap>
                                         <entry>
                                             <key>js</key>
+                                            <value>
+                                                <paramList>
+                                                    <datatype>string</datatype>
+                                                    <paramName>ev</paramName>
+                                                    <valType>0</valType>
+                                                    <value>eventobject</value>
+                                                    <valueMap>
+                                                        <entry>
+                                                            <key>js</key>
+                                                            <value>eventobject</value>
+                                                        </entry>
+                                                    </valueMap>
+                                                </paramList>
+                                            </value>
+                                        </entry>
+                                        <entry>
+                                            <key>lua</key>
                                             <value>
                                                 <paramList>
                                                     <datatype>string</datatype>
@@ -22566,13 +22600,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -23528,7 +23562,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -24182,8 +24216,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -24641,13 +24675,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -25639,7 +25673,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -26293,8 +26327,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -26752,13 +26786,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -27738,7 +27772,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -29740,7 +29774,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -30394,8 +30428,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -30853,13 +30887,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -31827,7 +31861,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -32482,8 +32516,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -32941,13 +32975,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -33939,7 +33973,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -34593,8 +34627,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                        <focusSkinId>Skin Defaults</focusSkinId>
+                        <skinId>cBoxDefault</skinId>
+                        <focusSkinId>cBoxDefaultFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <onSelection>
@@ -35052,13 +35086,13 @@
                             <thinclient_override>false</thinclient_override>
                             <type>1</type>
                             <windows8>
-                                <left>0</left>
-                                <right>0</right>
-                                <top>0</top>
-                                <bottom>0</bottom>
+                                <left>1</left>
+                                <right>1</right>
+                                <top>1</top>
+                                <bottom>1</bottom>
                                 <unit>%</unit>
                             </windows8>
-                            <windows8_override>false</windows8_override>
+                            <windows8_override>true</windows8_override>
                             <winmobile>
                                 <left>0</left>
                                 <right>0</right>
@@ -36050,7 +36084,7 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>LabelSkin0c3edec327e9b48</skinId>
+                        <skinId>lblTitleDefault</skinId>
                         <focusSkinId>Skin Defaults</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
@@ -36704,8 +36738,8 @@
                             <width>6</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin068728e60c88548</skinId>
-                        <focusSkinId>ButtonSkin0ea18ca77691942</focusSkinId>
+                        <skinId>btnAttachment</skinId>
+                        <focusSkinId>btnAttachment</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>
@@ -40020,7 +40054,7 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>LabelSkin0c3edec327e9b48</skinId>
+                                <skinId>lblTitleDefault</skinId>
                                 <focusSkinId>Skin Defaults</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
@@ -40674,8 +40708,8 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>ComboBoxSkin0d5ab1c13ea9d4b</skinId>
-                                <focusSkinId>Skin Defaults</focusSkinId>
+                                <skinId>cBoxDefault</skinId>
+                                <focusSkinId>cBoxDefaultFocus</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
                                 <onSelection>
@@ -41133,13 +41167,13 @@
                                     <thinclient_override>false</thinclient_override>
                                     <type>1</type>
                                     <windows8>
-                                        <left>0</left>
-                                        <right>0</right>
-                                        <top>0</top>
-                                        <bottom>0</bottom>
+                                        <left>1</left>
+                                        <right>1</right>
+                                        <top>1</top>
+                                        <bottom>1</bottom>
                                         <unit>%</unit>
                                     </windows8>
-                                    <windows8_override>false</windows8_override>
+                                    <windows8_override>true</windows8_override>
                                     <winmobile>
                                         <left>0</left>
                                         <right>0</right>
@@ -42095,7 +42129,7 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>LabelSkin0c3edec327e9b48</skinId>
+                                <skinId>lblTitleDefault</skinId>
                                 <focusSkinId>Skin Defaults</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
@@ -44052,7 +44086,7 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>LabelSkin0c3edec327e9b48</skinId>
+                                <skinId>lblTitleDefault</skinId>
                                 <focusSkinId>Skin Defaults</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
@@ -46009,7 +46043,7 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>LabelSkin0c3edec327e9b48</skinId>
+                                <skinId>lblTitleDefault</skinId>
                                 <focusSkinId>Skin Defaults</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
@@ -46663,8 +46697,8 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>Skin Defaults</skinId>
-                                <focusSkinId>Skin Defaults</focusSkinId>
+                                <skinId>tBoxDefault</skinId>
+                                <focusSkinId>tBoxDefaultFocus</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
                                 <android_containerHeightMode>TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT</android_containerHeightMode>
@@ -46872,7 +46906,7 @@
                                         <bottom>0</bottom>
                                         <unit>%</unit>
                                     </windows8>
-                                    <windows8_override>true</windows8_override>
+                                    <windows8_override>false</windows8_override>
                                     <winmobile>
                                         <left>0</left>
                                         <right>0</right>
@@ -48133,7 +48167,7 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>LabelSkin0c3edec327e9b48</skinId>
+                                <skinId>lblTitleDefault</skinId>
                                 <focusSkinId>Skin Defaults</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
@@ -50355,7 +50389,7 @@
                                     <width>50</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>LabelSkin036aea30314394b</skinId>
+                                <skinId>lblTitleDefault</skinId>
                                 <focusSkinId>Skin Defaults</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
@@ -51663,7 +51697,7 @@
                                     <width>8</width>
                                     <height>100</height>
                                 </sizePercent>
-                                <skinId>ButtonSkin0f1b25c8a740f4c</skinId>
+                                <skinId>btnPen</skinId>
                                 <focusSkinId>slButtonGlossRed</focusSkinId>
                                 <localeId>None</localeId>
                                 <visible>true</visible>
@@ -53072,8 +53106,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin07e60f93a009243</skinId>
-                        <focusSkinId>ButtonSkin04675b173f0b54d</focusSkinId>
+                        <skinId>btnFormAction</skinId>
+                        <focusSkinId>btnFormActionFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>
@@ -53782,8 +53816,8 @@ eval(frmCreateWO.info.rtnFormName).show()</value>
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin07e60f93a009243</skinId>
-                        <focusSkinId>ButtonSkin04675b173f0b54d</focusSkinId>
+                        <skinId>btnFormAction</skinId>
+                        <focusSkinId>btnFormActionFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>

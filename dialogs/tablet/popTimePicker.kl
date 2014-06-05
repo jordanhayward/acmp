@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>PopupSkin0fe366eaea83a4a</skinId>
+        <skinId>popupDefault</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -5037,8 +5037,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin05e3b39ba049649</skinId>
-                        <focusSkinId>ButtonSkin0647046c9ef2444</focusSkinId>
+                        <skinId>btnFormAction</skinId>
+                        <focusSkinId>btnFormActionFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>
@@ -5746,8 +5746,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin05b9609c77bad45</skinId>
-                        <focusSkinId>ButtonSkin0c1324533607d42</focusSkinId>
+                        <skinId>btnFormAction</skinId>
+                        <focusSkinId>btnFormActionFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>

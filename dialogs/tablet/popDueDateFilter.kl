@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>Skin Defaults</skinId>
+        <skinId>popupDefault</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -181,10 +181,10 @@
             <bb_override>false</bb_override>
             <default_override>true</default_override>
             <defaults>
-                <left>0</left>
-                <right>0</right>
-                <top>0</top>
-                <bottom>0</bottom>
+                <left>5</left>
+                <right>5</right>
+                <top>5</top>
+                <bottom>5</bottom>
                 <unit>%</unit>
             </defaults>
             <desktop_kiosk>
@@ -443,7 +443,7 @@
         <titlebar>true</titlebar>
         <footerOverlap>false</footerOverlap>
         <headerOverlap>false</headerOverlap>
-        <c_isModal>false</c_isModal>
+        <c_isModal>true</c_isModal>
         <orientation>1</orientation>
         <display_orientation>portrait</display_orientation>
         <itemSkinId>Skin Defaults</itemSkinId>
@@ -526,7 +526,7 @@
         <iphone_titleBarConfig>renderTitleText</iphone_titleBarConfig>
         <iphoneOutTransDirection>0</iphoneOutTransDirection>
         <iphoneOutTransEffect>0</iphoneOutTransEffect>
-        <iphone_popup_transpcy>100</iphone_popup_transpcy>
+        <iphone_popup_transpcy>25</iphone_popup_transpcy>
         <iphone_orientation>0</iphone_orientation>
         <iphone_footer_overlap>0</iphone_footer_overlap>
         <iphone_footerOverlap>false</iphone_footerOverlap>
@@ -1447,7 +1447,7 @@
                     <width>28</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>Skin Defaults</skinId>
+                <skinId>lblTextDefault</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -3018,7 +3018,7 @@
                 <width>100</width>
                 <height>6</height>
             </sizePercent>
-            <skinId>Skin Defaults</skinId>
+            <skinId>lblTitleDefault</skinId>
             <focusSkinId>Skin Defaults</focusSkinId>
             <localeId>None</localeId>
             <visible>true</visible>
@@ -4323,8 +4323,8 @@
                     <width>49</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin05e3b39ba049649</skinId>
-                <focusSkinId>ButtonSkin0647046c9ef2444</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -5032,8 +5032,8 @@
                     <width>49</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin05b9609c77bad45</skinId>
-                <focusSkinId>ButtonSkin0c1324533607d42</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>

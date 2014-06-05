@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>PopupSkin0fee1bbbdf7cd44</skinId>
+        <skinId>popupDefault</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -2082,7 +2082,7 @@
                         <width>100</width>
                         <height>23</height>
                     </sizePercent>
-                    <skinId>LabelSkin0b4954cd3d75e4d</skinId>
+                    <skinId>lblTitleDefault</skinId>
                     <focusSkinId>Skin Defaults</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
@@ -2737,8 +2737,8 @@
                         <width>100</width>
                         <height>37</height>
                     </sizePercent>
-                    <skinId>TextAreaSkin0f600bb4aa9bd4c</skinId>
-                    <focusSkinId>TextAreaSkin0ee7539d051c548</focusSkinId>
+                    <skinId>tAreaDefault</skinId>
+                    <focusSkinId>tAreaDefaultFocus</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
                     <no_of_rows>5</no_of_rows>
@@ -3339,7 +3339,7 @@
                         <width>true</width>
                         <height>false</height>
                     </overridePerferred>
-                    <contentAlign>4</contentAlign>
+                    <contentAlign>0</contentAlign>
                     <length>0</length>
                     <mode>0</mode>
                     <onClick></onClick>
@@ -4142,8 +4142,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin05e3b39ba049649</skinId>
-                        <focusSkinId>ButtonSkin0647046c9ef2444</focusSkinId>
+                        <skinId>btnFormAction</skinId>
+                        <focusSkinId>btnFormActionFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>
@@ -4851,8 +4851,8 @@
                             <width>50</width>
                             <height>100</height>
                         </sizePercent>
-                        <skinId>ButtonSkin05b9609c77bad45</skinId>
-                        <focusSkinId>ButtonSkin0c1324533607d42</focusSkinId>
+                        <skinId>btnFormAction</skinId>
+                        <focusSkinId>btnFormActionFocus</focusSkinId>
                         <localeId>None</localeId>
                         <visible>true</visible>
                         <rendererData>

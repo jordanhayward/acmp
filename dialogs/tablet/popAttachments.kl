@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>PopupSkin0d67fa5831a1f4f</skinId>
+        <skinId>popupDefault</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -1447,7 +1447,7 @@
                     <width>100</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>LabelSkin0165d84b61f0048</skinId>
+                <skinId>lblTitleDefault</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -5544,7 +5544,7 @@
                                 <width>82</width>
                                 <height>100</height>
                             </sizePercent>
-                            <skinId>LabelSkin0575e79b6063e4c</skinId>
+                            <skinId>lblTextDefault</skinId>
                             <focusSkinId>Skin Defaults</focusSkinId>
                             <localeId>None</localeId>
                             <visible>true</visible>
@@ -6907,8 +6907,8 @@
                     <width>100</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin05cb8f07d878849</skinId>
-                <focusSkinId>ButtonSkin0627f321a60dc40</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -8296,8 +8296,8 @@
                     <width>100</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin05cb8f07d878849</skinId>
-                <focusSkinId>ButtonSkin0627f321a60dc40</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>

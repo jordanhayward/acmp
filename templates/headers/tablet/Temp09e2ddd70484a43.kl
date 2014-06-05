@@ -23,6 +23,7 @@
         <height>false</height>
     </overridePerferred>
     <projectName>AccessMidV3</projectName>
+    <formName>Temp09e2ddd70484a43</formName>
     <platform>0</platform>
     <mode>2</mode>
     <formCategory>100</formCategory>
@@ -52,7 +53,7 @@
         </location>
         <size>
             <width>450</width>
-            <height>450</height>
+            <height>194</height>
         </size>
         <sizePercent>
             <width>100</width>
@@ -439,7 +440,7 @@
                 <seqname></seqname>
             </evtSequence>
         </onOrientationChange>
-        <titlebar>true</titlebar>
+        <titlebar>false</titlebar>
         <footerOverlap>false</footerOverlap>
         <headerOverlap>false</headerOverlap>
         <c_isModal>false</c_isModal>
@@ -794,7 +795,7 @@
             </size>
             <sizePercent>
                 <width>100</width>
-                <height>11</height>
+                <height>26</height>
             </sizePercent>
             <skinId>CopyslHbox0572a1ff617754b</skinId>
             <focusSkinId>Skin Defaults</focusSkinId>

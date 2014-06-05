@@ -155,8 +155,8 @@
     <attributes name="win8versionrevisionkey" value="0"/>
     <attributes name="ACCESS_MOCK_LOCATION" value="false"/>
     <attributes name="SYSTEM_ALERT_WINDOW" value="false"/>
-    <attributes name="iphoneloadindicatorkey" value="true"/>
     <attributes name="RECEIVE_SMS" value="false"/>
+    <attributes name="iphoneloadindicatorkey" value="true"/>
     <attributes name="BIND_REMOTEVIEWS" value="false"/>
     <attributes name="appidkey" value="AccessMid"/>
     <attributes name="Proximity" value="true"/>
@@ -332,7 +332,7 @@
     <attributes name="androidInstallLocnPref" value="false"/>
     <attributes name="tcpalm240basefontsize" value="10"/>
     <attributes name="CHANGE_WIFI_MULTICAST_STATE" value="false"/>
-    <attributes name="cloud_url" value="https://lee.konycloud.com"/>
+    <attributes name="cloud_url" value="https://jcloud.konycloud.com"/>
     <attributes name="certs_key_store_pwd" value="kds/0eUc+i3BqFqSkpCk4g=="/>
     <attributes name="CALL_PRIVILEGED" value="false"/>
     <attributes name="SUBSCRIBED_FEEDS_READ" value="false"/>
@@ -343,12 +343,12 @@
     <attributes name="extendBottom" value=""/>
     <attributes name="appversioncode" value="1"/>
     <attributes name="RECEIVE_WAP_PUSH" value="false"/>
-    <attributes name="cloud_selected_ipaddress_list" value="http://127.0.0.1:8080,http://10.211.55.3:8080"/>
+    <attributes name="cloud_selected_ipaddress_list" value="http://127.0.0.1:8080"/>
     <attributes name="customgcmbroadcastreceiver" value=""/>
     <attributes name="WP8_ID_CAP_REMOVABLE_STORAGE" value="true"/>
     <attributes name="MODIFY_PHONE_STATE" value="false"/>
-    <attributes name="iosrespectimagesizecorrection" value="true"/>
     <attributes name="tcpalm320basefontsize" value="12"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
     <attributes name="androidInstallLocation" value="Auto"/>
     <attributes name="androidscreenlarge" value="true"/>
     <attributes name="bb10buildid" value=""/>
@@ -406,7 +406,7 @@
     <attributes name="tcandroid480basefontsize" value="16"/>
     <attributes name="BROADCAST_SMS" value="false"/>
     <attributes name="tcandroid320basefontsize" value="12"/>
-    <attributes name="cloud_env_name" value="lee.grey@kony.com-Enterprise Trial"/>
+    <attributes name="cloud_env_name" value="Jordan.Hayward-JCloud"/>
     <attributes name="ID_REQ_REARCAMERA" value="false"/>
     <attributes name="tcandroid360basefontsize" value="13"/>
     <attributes name="win8displaynamekey" value="AccessMidV3"/>
