@@ -2102,8 +2102,8 @@
                     <width>12</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>slButtonGlossBlue</skinId>
-                <focusSkinId>slButtonGlossRed</focusSkinId>
+                <skinId>btnNavHeader</skinId>
+                <focusSkinId>btnNavHeaderFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -2742,6 +2742,47 @@
                             <paramDataMap>
                                 <entry>
                                     <key>js</key>
+                                    <value>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>isNew</paramName>
+                                            <valType>0</valType>
+                                            <value>false</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>false</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>wo</paramName>
+                                            <valType>0</valType>
+                                            <value>currentWO</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>currentWO</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>rtnFormName</paramName>
+                                            <valType>0</valType>
+                                            <value>'frmViewMoreInfo'</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>'frmViewMoreInfo'</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                    </value>
+                                </entry>
+                                <entry>
+                                    <key>lua</key>
                                     <value>
                                         <paramList>
                                             <datatype>string</datatype>

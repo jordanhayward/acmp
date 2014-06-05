@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>PopupSkin0cd8d5363b98245</skinId>
+        <skinId>popupDefault</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -1751,7 +1751,7 @@
                     <width>100</width>
                     <height>17</height>
                 </sizePercent>
-                <skinId>Skin Defaults</skinId>
+                <skinId>lblTextDefault</skinId>
                 <focusSkinId>Skin Defaults</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
@@ -3063,8 +3063,8 @@
                     <width>50</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin09514670b61e444</skinId>
-                <focusSkinId>ButtonSkin01149cbee344447</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -3772,8 +3772,8 @@
                     <width>50</width>
                     <height>100</height>
                 </sizePercent>
-                <skinId>ButtonSkin05840a6e098ef4c</skinId>
-                <focusSkinId>ButtonSkin00ec09af630844c</focusSkinId>
+                <skinId>btnFormAction</skinId>
+                <focusSkinId>btnFormActionFocus</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -4388,6 +4388,23 @@
                             <paramDataMap>
                                 <entry>
                                     <key>js</key>
+                                    <value>
+                                        <paramList>
+                                            <datatype>string</datatype>
+                                            <paramName>ev</paramName>
+                                            <valType>0</valType>
+                                            <value>eventobject</value>
+                                            <valueMap>
+                                                <entry>
+                                                    <key>js</key>
+                                                    <value>eventobject</value>
+                                                </entry>
+                                            </valueMap>
+                                        </paramList>
+                                    </value>
+                                </entry>
+                                <entry>
+                                    <key>lua</key>
                                     <value>
                                         <paramList>
                                             <datatype>string</datatype>
